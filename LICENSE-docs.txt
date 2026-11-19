@@ -1,0 +1,6 @@
+文書(report/、records/、README.md、EXCLUDED.md)と、この一式で作ったデータ(data/untried_ideas/、records/blind_recode/answers_recoder1.json)は、
+クリエイティブ・コモンズ 表示 4.0 国際(CC BY 4.0)で提供します。
+https://creativecommons.org/licenses/by/4.0/deed.ja
+
+ただし、data/stage2_sleeping_beauties/ の論文の書誌データは OpenAlex に由来し、OpenAlex のデータは CC0 です(https://openalex.org)。
+文中で引用した第三者の資料は、それぞれの権利者に帰属します。

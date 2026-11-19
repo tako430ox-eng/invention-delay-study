@@ -1,0 +1,3636 @@
+{
+ "old": [
+  {
+   "id": "https://openalex.org/W2322183461",
+   "doi": "https://doi.org/10.2307/2111187",
+   "year": 1985,
+   "title": "Regression in Space and Time: A Statistical Essay"
+  },
+  {
+   "id": "https://openalex.org/W2110422600",
+   "doi": "https://doi.org/10.1099/00222615-12-4-397",
+   "year": 1979,
+   "title": "\"Fingerprinting\" -haemolytic streptococci by their production of and sensitivity to bacteriocine-like inhibitors"
+  },
+  {
+   "id": "https://openalex.org/W2135420840",
+   "doi": "https://doi.org/10.1080/03093647809177770",
+   "year": 1978,
+   "title": "An instrument for monitoring stump oedema and shrinkage in amputees"
+  },
+  {
+   "id": "https://openalex.org/W284814259",
+   "doi": null,
+   "year": 1966,
+   "title": "Cluster Parameter Analysis Systems."
+  },
+  {
+   "id": "https://openalex.org/W2038926346",
+   "doi": "https://doi.org/10.1103/physrev.171.1643",
+   "year": 1968,
+   "title": "Incoherent-Scattering Function, Total Pair-Production Cross Section, and Pair-Production Length for Helium"
+  },
+  {
+   "id": "https://openalex.org/W2083002793",
+   "doi": "https://doi.org/10.1088/0022-3719/12/9/018",
+   "year": 1979,
+   "title": "Magneto-optical properties of praseodymium- and holmium-doped soda glass"
+  },
+  {
+   "id": "https://openalex.org/W1977689281",
+   "doi": "https://doi.org/10.1080/03601218408907478",
+   "year": 1984,
+   "title": "Response of a Sliding Structure to Filtered Random Excitation*"
+  },
+  {
+   "id": "https://openalex.org/W246710947",
+   "doi": null,
+   "year": 1969,
+   "title": "SPATIAL FILTRATION OF IMAGES ON THE IMAGE-ORTHICON TARGET,"
+  },
+  {
+   "id": "https://openalex.org/W3084376392",
+   "doi": null,
+   "year": 1975,
+   "title": "A derivation of the equations of collisionless magnetohydrodynamics"
+  },
+  {
+   "id": "https://openalex.org/W2007692314",
+   "doi": "https://doi.org/10.2118/12448-ms",
+   "year": 1984,
+   "title": "CEMENTATION OF INTERMEDIATE GAS SANDS IN CENTRAL LUCONIA PROVINCE"
+  },
+  {
+   "id": "https://openalex.org/W1978686660",
+   "doi": "https://doi.org/10.2118/81-32-17",
+   "year": 1981,
+   "title": "Beaufort Sea Exploration And Development"
+  },
+  {
+   "id": "https://openalex.org/W1587925150",
+   "doi": "https://doi.org/10.21236/ada108802",
+   "year": 1981,
+   "title": "Precast Concrete Pavements"
+  },
+  {
+   "id": "https://openalex.org/W2082117814",
+   "doi": "https://doi.org/10.1109/tac.1972.1100033",
+   "year": 1972,
+   "title": "On optimum distributed-parameter filtering and fixed-interval smoothing for colored noise"
+  },
+  {
+   "id": "https://openalex.org/W1991362135",
+   "doi": "https://doi.org/10.1080/09593338409384278",
+   "year": 1984,
+   "title": "Physico‐chemical treatment of meat‐processing effluent with sodium alginate and seaweed"
+  },
+  {
+   "id": "https://openalex.org/W2319055864",
+   "doi": "https://doi.org/10.2307/1588398",
+   "year": 1971,
+   "title": "A Direct Complement-Fixation Test for Detection of Mycoplasma Antibodies in Chicken Serum"
+  },
+  {
+   "id": "https://openalex.org/W2097942121",
+   "doi": "https://doi.org/10.1306/212f7b17-2b24-11d7-8648000102c1865d",
+   "year": 1980,
+   "title": "Bathymetric zonation and paleoecological significance of microborings in Puerto Rican shelf and slope sediments"
+  },
+  {
+   "id": "https://openalex.org/W3017715643",
+   "doi": null,
+   "year": 1975,
+   "title": "PART I. A NEW TYPE OF SUBSTITUTION AT A SATURATED CARBON ATOM. PART II. A NEW METHOD FOR PROTECTING CARBOXYLIC ACIDS, PHENOLS, THIOPHENOLS, MERCAPTANS, AMINES, AND ALCOHOLS"
+  },
+  {
+   "id": "https://openalex.org/W2016273642",
+   "doi": "https://doi.org/10.1049/piee.1965.0043",
+   "year": 1965,
+   "title": "Development of group-delay equalisers for 4 Gc/s"
+  },
+  {
+   "id": "https://openalex.org/W2145901080",
+   "doi": null,
+   "year": 1984,
+   "title": "Evaluation in dogs of a new double-dose technique for imaging changes in myocardial perfusion."
+  },
+  {
+   "id": "https://openalex.org/W2028189349",
+   "doi": "https://doi.org/10.1116/1.570683",
+   "year": 1981,
+   "title": "The role of polymers in optical recording media"
+  },
+  {
+   "id": "https://openalex.org/W1042900387",
+   "doi": null,
+   "year": 1968,
+   "title": "The East Indian Sandalwood Oil"
+  },
+  {
+   "id": "https://openalex.org/W2009048142",
+   "doi": "https://doi.org/10.1109/tia.1980.4503808",
+   "year": 1980,
+   "title": "Three-Phase Energy Transfer Circuit with Superconducting Energy Storage Coils"
+  },
+  {
+   "id": "https://openalex.org/W2151531331",
+   "doi": "https://doi.org/10.2118/11131-ms",
+   "year": 1982,
+   "title": "The Response of Interwell Tracer Tests in Watered-Out Reservoirs"
+  },
+  {
+   "id": "https://openalex.org/W2046929174",
+   "doi": "https://doi.org/10.1071/eg984229",
+   "year": 1984,
+   "title": "Seismic reflection and mineral prospecting"
+  },
+  {
+   "id": "https://openalex.org/W4235028853",
+   "doi": "https://doi.org/10.1021/cen-v046n020.p037",
+   "year": 1968,
+   "title": "CONCENTRATES"
+  },
+  {
+   "id": "https://openalex.org/W2410229698",
+   "doi": "https://doi.org/10.1055/s-2008-1036618",
+   "year": 1982,
+   "title": "Ergebnisse zytologischer Untersuchungen von direkt entnommenem Zellmaterial aus dem Uteruskavum mit der Exploret-Fatol"
+  },
+  {
+   "id": "https://openalex.org/W3006220002",
+   "doi": "https://doi.org/10.2172/6496760",
+   "year": 1984,
+   "title": "Effect of resonant microwave power on a PIG ion source"
+  },
+  {
+   "id": "https://openalex.org/W2090131651",
+   "doi": "https://doi.org/10.1139/f80-011",
+   "year": 1980,
+   "title": "A Simple Reflectance Method for the Measurement of Particulate Pigment in Lake Water and its Application to Phosphorus–Chlorophyll–Seston Relationships"
+  },
+  {
+   "id": "https://openalex.org/W2323203620",
+   "doi": "https://doi.org/10.5254/1.3535058",
+   "year": 1980,
+   "title": "Determination of Free Soap in Styrene Butadiene Latex"
+  },
+  {
+   "id": "https://openalex.org/W2121530684",
+   "doi": "https://doi.org/10.1080/00207218508939076",
+   "year": 1985,
+   "title": "A JFET-BJT combination for instrumentation applications"
+  },
+  {
+   "id": "https://openalex.org/W2092362620",
+   "doi": "https://doi.org/10.1243/jmes_jour_1981_023_007_02",
+   "year": 1981,
+   "title": "Dynamic Loading of Micropolar Fluid Lubricated Short Journal Bearings"
+  },
+  {
+   "id": "https://openalex.org/W1964736002",
+   "doi": "https://doi.org/10.1063/1.1714490",
+   "year": 1965,
+   "title": "Crystal Growth and Electro-Optic Effect of Bismuth Germanate, Bi4 (GeO4)3"
+  },
+  {
+   "id": "https://openalex.org/W2080331427",
+   "doi": "https://doi.org/10.1109/tmtt.1970.1127290",
+   "year": 1970,
+   "title": "Twist Modes in Magnetoplasma-Filled Circular Waveguides"
+  },
+  {
+   "id": "https://openalex.org/W2415803088",
+   "doi": "https://doi.org/10.4315/0022-2747-30.10.317",
+   "year": 1967,
+   "title": "METHODS FOR THE QUALITATIVE AND QUANTITATIVE DETERMINATION OF AFLATOXINS1"
+  },
+  {
+   "id": "https://openalex.org/W2094084775",
+   "doi": "https://doi.org/10.1093/carcin/5.1.57",
+   "year": 1984,
+   "title": "Inhibition of 1,2-dimethylhydrazine-induced colon tumorigenesis in Balb/c mice by dehydroepiandrosterone"
+  },
+  {
+   "id": "https://openalex.org/W1918699420",
+   "doi": "https://doi.org/10.1080/03772063.1973.11487141",
+   "year": 1973,
+   "title": "Equivalent Distributed ParameterZ-Y-G∞Networks"
+  },
+  {
+   "id": "https://openalex.org/W1996782033",
+   "doi": "https://doi.org/10.1109/tmtt.1969.1126879",
+   "year": 1969,
+   "title": "Synthesis of Asymmetrical Branch-Guide Directional Coupler-Impedance Transformers (Correspondence)"
+  },
+  {
+   "id": "https://openalex.org/W2012700012",
+   "doi": "https://doi.org/10.3109/07388558309084660",
+   "year": 1983,
+   "title": "Advances in Ethanol Production using Immobilized Cell Systems"
+  },
+  {
+   "id": "https://openalex.org/W2501398874",
+   "doi": "https://doi.org/10.1093/oxfordjournals.rpd.a079438",
+   "year": 1985,
+   "title": "A Model of Aerosol Deposition in the Lung for Use in Inhalation Dose Assessments"
+  },
+  {
+   "id": "https://openalex.org/W2141883576",
+   "doi": "https://doi.org/10.1109/edl.1985.26028",
+   "year": 1985,
+   "title": "A new Ga0.47In0.53As field-effect transistor with a lattice-mismatched GaAs gate for high-speed circuits"
+  },
+  {
+   "id": "https://openalex.org/W2081048496",
+   "doi": "https://doi.org/10.1109/tmag.1981.1061100",
+   "year": 1981,
+   "title": "Microwave radiation from long Josephson tunnel junctions"
+  },
+  {
+   "id": "https://openalex.org/W2048401878",
+   "doi": "https://doi.org/10.1289/ehp.824577",
+   "year": 1982,
+   "title": "Testicular Effects of Phthalate Esters"
+  },
+  {
+   "id": "https://openalex.org/W2166116548",
+   "doi": "https://doi.org/10.1049/ree.1972.0071",
+   "year": 1972,
+   "title": "A pseudo-random pulse train generator with controllable rate for modelling of audiometric systems"
+  },
+  {
+   "id": "https://openalex.org/W2186651096",
+   "doi": null,
+   "year": 1982,
+   "title": "Special thermal design to prevent thaw settlement and liquefaction"
+  },
+  {
+   "id": "https://openalex.org/W1974782008",
+   "doi": "https://doi.org/10.1088/0022-3735/5/10/018",
+   "year": 1972,
+   "title": "A vector rubidium magnetometer"
+  },
+  {
+   "id": "https://openalex.org/W762411482",
+   "doi": null,
+   "year": 1982,
+   "title": "Dual-Alloy Disks are Formed by Powder Metallurgy"
+  },
+  {
+   "id": "https://openalex.org/W2164143043",
+   "doi": "https://doi.org/10.2214/ajr.145.3.591",
+   "year": 1985,
+   "title": "Echogenicity of fetal lung: relation to fetal age and maturity"
+  },
+  {
+   "id": "https://openalex.org/W2050799027",
+   "doi": "https://doi.org/10.1063/1.328442",
+   "year": 1981,
+   "title": "Channeling of intense electromagnetic beams"
+  },
+  {
+   "id": "https://openalex.org/W2181211426",
+   "doi": "https://doi.org/10.1164/arrd.1980.122.5.769",
+   "year": 1980,
+   "title": "Desmosine Radioimmunoassay for Measuring Elastin Degradation In Vivo"
+  },
+  {
+   "id": "https://openalex.org/W1992494335",
+   "doi": "https://doi.org/10.1002/1097-0142(197407)34:1<175::aid-cncr2820340127>3.0.co;2-f",
+   "year": 1974,
+   "title": "Serologic immunotherapy: Results and probable mechanism of action"
+  },
+  {
+   "id": "https://openalex.org/W2033175199",
+   "doi": "https://doi.org/10.5006/1.3581994",
+   "year": 1985,
+   "title": "The Substitution of Molybdenum with Vanadium in Cast Austenitic Stainless Steel Alloys"
+  },
+  {
+   "id": "https://openalex.org/W2413433889",
+   "doi": null,
+   "year": 1985,
+   "title": "DNA synthesis by erythroid precursors in a completely defined medium: a rapid, sensitive, and convenient bioassay for erythropoietin."
+  },
+  {
+   "id": "https://openalex.org/W2057189938",
+   "doi": "https://doi.org/10.1039/j39680001011",
+   "year": 1968,
+   "title": "The mass spectra of amino-acid and peptide derivatives. Part I. Benzyloxycarbonyl derivatives"
+  },
+  {
+   "id": "https://openalex.org/W2327958390",
+   "doi": "https://doi.org/10.9746/sicetr1965.18.808",
+   "year": 1982,
+   "title": "The Characteristics of Small Motors with Temperature-Sensitive Magnetic Cores as a Part of the Magnetic Path"
+  },
+  {
+   "id": "https://openalex.org/W2047643673",
+   "doi": "https://doi.org/10.2514/6.1981-2588",
+   "year": 1981,
+   "title": "Industrial applications of MHD high temperature air heater technology"
+  },
+  {
+   "id": "https://openalex.org/W2165229211",
+   "doi": null,
+   "year": 1966,
+   "title": "A SHALLOW WATER ISOBARIC BUOY."
+  },
+  {
+   "id": "https://openalex.org/W2014041177",
+   "doi": "https://doi.org/10.1007/bf02669931",
+   "year": 1978,
+   "title": "Some characteristics of polyoxyethylene sorbitol tetra‐oleate: Oligomer type emulsifier"
+  },
+  {
+   "id": "https://openalex.org/W2112132295",
+   "doi": "https://doi.org/10.1109/tcom.1983.1095848",
+   "year": 1983,
+   "title": "A Self-Organizing Random Array Communications Relay"
+  },
+  {
+   "id": "https://openalex.org/W2116709256",
+   "doi": "https://doi.org/10.1109/tbme.1971.4502849",
+   "year": 1971,
+   "title": "An Inductively Coupled RF System for the Transmission of 1 kW of Power Through the Skin"
+  },
+  {
+   "id": "https://openalex.org/W1980199340",
+   "doi": "https://doi.org/10.1063/1.447707",
+   "year": 1984,
+   "title": "Theory of chemical reactions of vibronically excited H2 (B 1Σ+u). III. Formation of bound excited states of the (H2)2, (H2)3, and (H2)5 clusters"
+  },
+  {
+   "id": "https://openalex.org/W2111919785",
+   "doi": "https://doi.org/10.1109/tit.1979.1056083",
+   "year": 1979,
+   "title": "Higher-dimensional Hadamard matrices"
+  },
+  {
+   "id": "https://openalex.org/W2008709287",
+   "doi": "https://doi.org/10.1109/tap.1976.1141349",
+   "year": 1976,
+   "title": "Insertion loss due to a spherical shell in low frequency zone"
+  },
+  {
+   "id": "https://openalex.org/W4251929603",
+   "doi": "https://doi.org/10.1121/1.1976134",
+   "year": 1971,
+   "title": "Unidirectional Microphones"
+  },
+  {
+   "id": "https://openalex.org/W8852932",
+   "doi": "https://doi.org/10.1016/s0021-9258(18)97456-9",
+   "year": 1965,
+   "title": "The Kinetics of the Bohr Effect in the Reaction of Human Hemoglobin with Carbon Monoxide"
+  },
+  {
+   "id": "https://openalex.org/W1987206168",
+   "doi": "https://doi.org/10.1135/cccc19833189",
+   "year": 1983,
+   "title": "On the activity coefficients of components in molten salts"
+  },
+  {
+   "id": "https://openalex.org/W2027945856",
+   "doi": "https://doi.org/10.1063/1.1694446",
+   "year": 1973,
+   "title": "Parametric interactions among plasma waves propagating along a static magnetic field"
+  },
+  {
+   "id": "https://openalex.org/W2029135559",
+   "doi": "https://doi.org/10.1097/00005373-198510000-00004",
+   "year": 1985,
+   "title": "Response of Random Skin Flaps to Rapid Expansion"
+  },
+  {
+   "id": "https://openalex.org/W2086498207",
+   "doi": "https://doi.org/10.1103/physreva.29.994",
+   "year": 1984,
+   "title": "Nonlinear saturated absorption in resonant media: Level-degeneracy-induced polarization effects"
+  },
+  {
+   "id": "https://openalex.org/W2166527461",
+   "doi": "https://doi.org/10.1109/taes.1976.308345",
+   "year": 1976,
+   "title": "Cross Correlation of Orthogonally Polarized Backscatter Components"
+  },
+  {
+   "id": "https://openalex.org/W2342301422",
+   "doi": "https://doi.org/10.1130/mem115-p495",
+   "year": 1969,
+   "title": "Temperatures with Depth Resulting from Frictionally Generated Heat During Metamorphism"
+  },
+  {
+   "id": "https://openalex.org/W4235349395",
+   "doi": "https://doi.org/10.1145/965139.807377",
+   "year": 1978,
+   "title": "Application of shape-preserving spline interpolation to interactive editing of photogrammetric data"
+  },
+  {
+   "id": "https://openalex.org/W2073852827",
+   "doi": "https://doi.org/10.1364/ao.16.000413",
+   "year": 1977,
+   "title": "Binary phase digital reflection holograms: fabrication and potential applications"
+  },
+  {
+   "id": "https://openalex.org/W2412187695",
+   "doi": null,
+   "year": 1977,
+   "title": "Determination of kallidinogenase activity by radial immunodiffusion methods."
+  },
+  {
+   "id": "https://openalex.org/W2140051836",
+   "doi": "https://doi.org/10.1109/tcom.1980.1094668",
+   "year": 1980,
+   "title": "An Effective Error Control Scheme for Satellite Communications"
+  },
+  {
+   "id": "https://openalex.org/W1980254136",
+   "doi": "https://doi.org/10.1080/00207217408900428",
+   "year": 1974,
+   "title": "Certain theorems on exact non-uniform transmission lines†"
+  },
+  {
+   "id": "https://openalex.org/W2017777962",
+   "doi": "https://doi.org/10.1088/0022-3727/7/18/315",
+   "year": 1974,
+   "title": "Observations of the gas-flow characteristics of low-current DC arcs"
+  },
+  {
+   "id": "https://openalex.org/W2240694582",
+   "doi": "https://doi.org/10.1089/cdd.1984.1.283",
+   "year": 1984,
+   "title": "Delivery of Ricin and Abrin A-Chains to Human Carcinoma Cells in Culture following Covalent Linkage to Monoclonal Antibody LICR-LOND-Fib 75"
+  },
+  {
+   "id": "https://openalex.org/W2169247886",
+   "doi": "https://doi.org/10.1002/eqe.4290110111",
+   "year": 1983,
+   "title": "Periodic response of a sliding oscillator system to harmonic excitation"
+  },
+  {
+   "id": "https://openalex.org/W2171395475",
+   "doi": "https://doi.org/10.1002/anie.197002551",
+   "year": 1970,
+   "title": "Inelastic Interactions of Slow Electrons with Adsorbed Particles"
+  },
+  {
+   "id": "https://openalex.org/W1617888600",
+   "doi": "https://doi.org/10.2172/5227952",
+   "year": 1979,
+   "title": "Study program to develop and evaluate die and container materials for the growth of silicon ribbons"
+  },
+  {
+   "id": "https://openalex.org/W53354081",
+   "doi": null,
+   "year": 1979,
+   "title": "Electrochemical route to coal gasification and its technological implications"
+  },
+  {
+   "id": "https://openalex.org/W1549809134",
+   "doi": null,
+   "year": 1976,
+   "title": "A simple approach to metal hydride alloy optimization"
+  },
+  {
+   "id": "https://openalex.org/W792930489",
+   "doi": null,
+   "year": 1975,
+   "title": "Thermal capacitator design rationale. Part 1: Thermal and mechanical property data for selected materials potentially useful in thermal capacitor design and construction"
+  },
+  {
+   "id": "https://openalex.org/W271067720",
+   "doi": null,
+   "year": 1975,
+   "title": "Single and multiple scattering of muon beams in a focusing magnetic field. [Angular distribution, distribution function]"
+  },
+  {
+   "id": "https://openalex.org/W2038160455",
+   "doi": "https://doi.org/10.1111/j.1365-2818.1985.tb02558.x",
+   "year": 1985,
+   "title": "A simple chamber for observing microscopic specimens in both top and side views"
+  },
+  {
+   "id": "https://openalex.org/W2046278747",
+   "doi": "https://doi.org/10.1007/bf02558165",
+   "year": 1967,
+   "title": "Potential synthetic lubricants: Diol ester of C18‐saturated cyclic acids"
+  },
+  {
+   "id": "https://openalex.org/W2094319566",
+   "doi": "https://doi.org/10.1112/jlms/s2-23.3.534",
+   "year": 1981,
+   "title": "Realcompactness and the Notion of Observable"
+  },
+  {
+   "id": "https://openalex.org/W4242314891",
+   "doi": "https://doi.org/10.5988/jime1966.11.724",
+   "year": 1976,
+   "title": "蒸気タービン推進プラントの今後の開発について"
+  },
+  {
+   "id": "https://openalex.org/W2117892522",
+   "doi": "https://doi.org/10.1119/1.11417",
+   "year": 1978,
+   "title": "A simple, accurate alternative to the minimum-deviation method for the determination of the refractive index of a prism"
+  },
+  {
+   "id": "https://openalex.org/W1967394009",
+   "doi": "https://doi.org/10.1063/1.326386",
+   "year": 1979,
+   "title": "Electron-beam-controlled transmission of 10-μm radiation in semiconductors"
+  },
+  {
+   "id": "https://openalex.org/W2072297219",
+   "doi": "https://doi.org/10.1139/z82-053",
+   "year": 1982,
+   "title": "Axotomy increases excitability in crayfish fast flexor motoneuron somata"
+  },
+  {
+   "id": "https://openalex.org/W171360006",
+   "doi": null,
+   "year": 1974,
+   "title": "The Dispersion of Aerosols in Systems of Repeatedly Bifurcating Tubes"
+  },
+  {
+   "id": "https://openalex.org/W133618319",
+   "doi": null,
+   "year": 1984,
+   "title": "Genetic engineering, medicine and medical genetics."
+  },
+  {
+   "id": "https://openalex.org/W2037585840",
+   "doi": "https://doi.org/10.1175/1520-0450(1972)011<0909:soshcv>2.0.co;2",
+   "year": 1972,
+   "title": "Satellite-Observed Southern Hemisphere Cloud Vortices in Relation to Conventional Observations"
+  },
+  {
+   "id": "https://openalex.org/W2054314208",
+   "doi": "https://doi.org/10.1108/eb047514",
+   "year": 1983,
+   "title": "Online Staff Resources: Canadian University Libraries"
+  },
+  {
+   "id": "https://openalex.org/W3035950101",
+   "doi": null,
+   "year": 1971,
+   "title": "Clock-Hour/Instantaneous Rainfall Rate Relationships Applicable to the Eastern United States."
+  },
+  {
+   "id": "https://openalex.org/W762304081",
+   "doi": null,
+   "year": 1975,
+   "title": "Manned maneuvering unit technology survey"
+  },
+  {
+   "id": "https://openalex.org/W2052004905",
+   "doi": "https://doi.org/10.1049/el:19710235",
+   "year": 1971,
+   "title": "Two-dimensional surface-wave diffraction from an arbitrary source in an anisotropic medium"
+  },
+  {
+   "id": "https://openalex.org/W2149656438",
+   "doi": "https://doi.org/10.1017/s0020743800053290",
+   "year": 1979,
+   "title": "Income and Consumption in Egypt, 1886/1887 to 1937"
+  },
+  {
+   "id": "https://openalex.org/W1964044174",
+   "doi": "https://doi.org/10.1109/proc.1971.8129",
+   "year": 1971,
+   "title": "Communication satellite processing repeaters"
+  },
+  {
+   "id": "https://openalex.org/W2021449156",
+   "doi": "https://doi.org/10.1049/el:19780035",
+   "year": 1978,
+   "title": "Encoding-decoding optical fibre network"
+  },
+  {
+   "id": "https://openalex.org/W2005208156",
+   "doi": "https://doi.org/10.1126/science.209.4456.547",
+   "year": 1980,
+   "title": "Quantum Nondemolition Measurements"
+  },
+  {
+   "id": "https://openalex.org/W2314577083",
+   "doi": "https://doi.org/10.1093/infdis/148.3.563",
+   "year": 1983,
+   "title": "Intraphagocytic Killing of Salmonella typhimurium by Liposome-Encapsulated Cephalothin"
+  },
+  {
+   "id": "https://openalex.org/W4238808391",
+   "doi": "https://doi.org/10.1002/mana.19710490113",
+   "year": 1971,
+   "title": "On Certain Recurrence Relations II"
+  },
+  {
+   "id": "https://openalex.org/W1978861028",
+   "doi": "https://doi.org/10.1049/piee.1971.0272",
+   "year": 1971,
+   "title": "Design for a superconducting a.c. power cable"
+  },
+  {
+   "id": "https://openalex.org/W2186003979",
+   "doi": null,
+   "year": 1981,
+   "title": "GAS TURBINES INCREASE THE ENERGY EFFICIENCY OF INDUSTRIAL PROCESSES"
+  },
+  {
+   "id": "https://openalex.org/W2146694411",
+   "doi": null,
+   "year": 1970,
+   "title": "Method for Accurate Receiver Tuning and Precise Measurement of the Carrier Frequency of Voice-Modulated, Suppressed-Carrier, Single-Sideband Radio Signals."
+  },
+  {
+   "id": "https://openalex.org/W2037352682",
+   "doi": "https://doi.org/10.2514/6.1971-1502",
+   "year": 1971,
+   "title": "FISSION ENGINE CONCEPTS"
+  },
+  {
+   "id": "https://openalex.org/W2537587083",
+   "doi": null,
+   "year": 1970,
+   "title": "Geochemical dispersion patterns related to kimberlite intrusives in North America"
+  },
+  {
+   "id": "https://openalex.org/W1529895667",
+   "doi": null,
+   "year": 1984,
+   "title": "Effect of resonant microwave power on a PIG ion source, revision"
+  },
+  {
+   "id": "https://openalex.org/W1987888473",
+   "doi": "https://doi.org/10.1103/physreva.25.2172",
+   "year": 1982,
+   "title": "Bifurcations to chaos in optical bistability"
+  },
+  {
+   "id": "https://openalex.org/W2015781842",
+   "doi": "https://doi.org/10.1109/tns.1985.4333728",
+   "year": 1985,
+   "title": "Effect of Resonant Microwave Power on a PIG Ion Source"
+  },
+  {
+   "id": "https://openalex.org/W2078558468",
+   "doi": "https://doi.org/10.1080/03081067308717062",
+   "year": 1973,
+   "title": "An assessment of the demand for new transport technology in Australia"
+  },
+  {
+   "id": "https://openalex.org/W2420968201",
+   "doi": "https://doi.org/10.1055/s-0038-1635399",
+   "year": 1982,
+   "title": "Computer Implementation of the Hierarchical-Modular Approach to Treatment Protocols"
+  },
+  {
+   "id": "https://openalex.org/W2111494784",
+   "doi": "https://doi.org/10.1177/096032717100300208",
+   "year": 1971,
+   "title": "New phosphors for lamps"
+  },
+  {
+   "id": "https://openalex.org/W2464466979",
+   "doi": "https://doi.org/10.1017/s0001925900008349",
+   "year": 1978,
+   "title": "The Attachment of a Ventilated Plane Jet to an Inclined Plane Wall"
+  },
+  {
+   "id": "https://openalex.org/W322021393",
+   "doi": null,
+   "year": 1983,
+   "title": "Anaerobic metabolism in dogs after organismal death."
+  },
+  {
+   "id": "https://openalex.org/W2062427067",
+   "doi": "https://doi.org/10.1109/tia.1985.349491",
+   "year": 1985,
+   "title": "Application of an EHD Technique to a Nuclear Power Plant Emergency Core Cooling System"
+  },
+  {
+   "id": "https://openalex.org/W2085266862",
+   "doi": "https://doi.org/10.1063/1.1761619",
+   "year": 1966,
+   "title": "Linearized Initial Value Problem for a Gas"
+  },
+  {
+   "id": "https://openalex.org/W1983146648",
+   "doi": "https://doi.org/10.1002/j.2333-8504.1969.tb00400.x",
+   "year": 1969,
+   "title": "A THEOREM ON THE TRACE OF CERTAIN MATRIX PRODUCTS AND SOME APPLICATIONS12"
+  },
+  {
+   "id": "https://openalex.org/W1993173416",
+   "doi": "https://doi.org/10.2118/11491-ms",
+   "year": 1983,
+   "title": "Reservoir Performance Analysis of Arab \"D\" Zone (Bahrain Field)"
+  },
+  {
+   "id": "https://openalex.org/W2112754823",
+   "doi": "https://doi.org/10.1109/tmtt.1979.1129675",
+   "year": 1979,
+   "title": "An Exact Three-Dimensional Field Theory for a Class of Cyclic H-Plane Waveguide Junction"
+  },
+  {
+   "id": "https://openalex.org/W2085758186",
+   "doi": "https://doi.org/10.1063/1.1134776",
+   "year": 1976,
+   "title": "Emissionless power cathode"
+  },
+  {
+   "id": "https://openalex.org/W2106827562",
+   "doi": "https://doi.org/10.14429/dsj.34.7681",
+   "year": 1984,
+   "title": "Processed Foods for Defence Needs-R & D Efforts at CFTRI"
+  },
+  {
+   "id": "https://openalex.org/W1988647770",
+   "doi": "https://doi.org/10.1088/0150-536x/8/1/003",
+   "year": 1977,
+   "title": "A triangular path inverting interferometer"
+  },
+  {
+   "id": "https://openalex.org/W2029217429",
+   "doi": "https://doi.org/10.1161/01.cir.32.2.293",
+   "year": 1965,
+   "title": "Single Left Coronary Artery with Fistula to Right Ventricle: Reconstruction of Two-Coronary System with Dacron Graft"
+  },
+  {
+   "id": "https://openalex.org/W4252183620",
+   "doi": "https://doi.org/10.1049/ip-h-1.1981.0009",
+   "year": 1981,
+   "title": "Novel rotary vane attenuator and variable directional coupler including methods for their precision calibration"
+  },
+  {
+   "id": "https://openalex.org/W2011647672",
+   "doi": "https://doi.org/10.1364/josa.70.000750",
+   "year": 1980,
+   "title": "Class of axisymmetric mirrors with uniform flux concentration properties along their axes"
+  },
+  {
+   "id": "https://openalex.org/W1942827094",
+   "doi": null,
+   "year": 1973,
+   "title": "COLD CRACKING AND LAMELLAR TEARING IN WELDED CARBON-MANGANESE STEELS"
+  },
+  {
+   "id": "https://openalex.org/W2017534600",
+   "doi": "https://doi.org/10.1126/science.221.4611.647",
+   "year": 1983,
+   "title": "Tobermorites: A New Family of Cation Exchangers"
+  },
+  {
+   "id": "https://openalex.org/W1993036981",
+   "doi": "https://doi.org/10.1109/sap.1970.269951",
+   "year": 1970,
+   "title": "On optimum distributed-parameter filter design for correlated measurement noise"
+  },
+  {
+   "id": "https://openalex.org/W322748484",
+   "doi": null,
+   "year": 1978,
+   "title": "Optimization model of a system consisting of solar water heater plus accumulator plus user with variable heat carrier flowrate"
+  },
+  {
+   "id": "https://openalex.org/W2094631060",
+   "doi": "https://doi.org/10.1002/ijch.196700051",
+   "year": 1967,
+   "title": "The Determination of Titanium by Tiron in the Presence of Large Amounts of Calcium and Iron. II"
+  },
+  {
+   "id": "https://openalex.org/W1968681338",
+   "doi": "https://doi.org/10.1049/el:19730118",
+   "year": 1973,
+   "title": "Analogue multiplexing using a digital technique"
+  },
+  {
+   "id": "https://openalex.org/W2052470913",
+   "doi": "https://doi.org/10.3382/ps.0601504",
+   "year": 1981,
+   "title": "Effect of Carrier on the True Metabolizable Energy of Corn Oil"
+  },
+  {
+   "id": "https://openalex.org/W1996875701",
+   "doi": "https://doi.org/10.1080/00222337308061133",
+   "year": 1973,
+   "title": "Self-Reguiating Poiycondensations. II. A Study of the Order Present in Polyamide-Hydrazides Derived from Terephthaloyl Chloride and p-Aminobenzhydrazide"
+  },
+  {
+   "id": "https://openalex.org/W2249297251",
+   "doi": "https://doi.org/10.4271/650168",
+   "year": 1965,
+   "title": "Wiring: Past, Present, and Future"
+  },
+  {
+   "id": "https://openalex.org/W2066552524",
+   "doi": "https://doi.org/10.1070/qe1979v009n02abeh008750",
+   "year": 1979,
+   "title": "Small-signal wavefront reversal in nonthreshold reflection from a Brillouin mirror"
+  },
+  {
+   "id": "https://openalex.org/W2028793668",
+   "doi": "https://doi.org/10.1063/1.334903",
+   "year": 1985,
+   "title": "Magneto-optical garnet films with high Faraday rotation and controlled coercivity"
+  },
+  {
+   "id": "https://openalex.org/W1530429801",
+   "doi": null,
+   "year": 1984,
+   "title": "Aluminum Welding: Out-of-Position Welding of 5000 Series Aluminum Alloys Using Pulse GMAW Power Sources"
+  },
+  {
+   "id": "https://openalex.org/W2102964356",
+   "doi": "https://doi.org/10.1002/eqe.4290120606",
+   "year": 1984,
+   "title": "Stochastic seismic sliding of rigid mass supported through non‐symmetric friction"
+  },
+  {
+   "id": "https://openalex.org/W216993878",
+   "doi": "https://doi.org/10.4315/0022-2747-33.2.58",
+   "year": 1970,
+   "title": "A STABLE MILK-LIKE EMULSION FOR MILKO-TESTER CHECK PURPOSES1"
+  },
+  {
+   "id": "https://openalex.org/W2945566136",
+   "doi": "https://doi.org/10.1055/s-0039-1687273",
+   "year": 1979,
+   "title": "Methods of Analysis of Drug Action on Fibrinolysis in Vitro"
+  },
+  {
+   "id": "https://openalex.org/W2241066761",
+   "doi": null,
+   "year": 1973,
+   "title": "LANDSCAPE AESTHETICS NUMERICALLY DETERMINED: APPLICATIONS TO HIGHWAY CORRIDOR SELECTION"
+  },
+  {
+   "id": "https://openalex.org/W4320930186",
+   "doi": "https://doi.org/10.1364/euvs.1982.tua1",
+   "year": 1982,
+   "title": "Review of Unconverted Nd-Glass Laser Plasma Experiments at the Lawrence Livermore National Laboratory*"
+  },
+  {
+   "id": "https://openalex.org/W1967267880",
+   "doi": "https://doi.org/10.1111/j.1365-2478.1972.tb00618.x",
+   "year": 1972,
+   "title": "THREE‐DIMENSIONAL OPTIMUM MULTICHANNEL VELOCITY FILTERS*"
+  },
+  {
+   "id": "https://openalex.org/W2031063509",
+   "doi": "https://doi.org/10.1070/qe1975v004n08abeh010492",
+   "year": 1975,
+   "title": "Spectral dependence of negative photoconductivity"
+  },
+  {
+   "id": "https://openalex.org/W2060195924",
+   "doi": "https://doi.org/10.1049/el:19740383",
+   "year": 1974,
+   "title": "X ray scanning pinhole microscope"
+  },
+  {
+   "id": "https://openalex.org/W1549149862",
+   "doi": null,
+   "year": 1972,
+   "title": "Heavy ion passive dosimetry with silver halide single crystals"
+  },
+  {
+   "id": "https://openalex.org/W2343512404",
+   "doi": "https://doi.org/10.1042/bj1680595",
+   "year": 1977,
+   "title": "Affinity chromatography of thiol-containing purines and ribonucleic acid"
+  },
+  {
+   "id": "https://openalex.org/W2007837039",
+   "doi": "https://doi.org/10.1088/0022-3727/10/13/008",
+   "year": 1977,
+   "title": "A magnetoresistive rectifier"
+  },
+  {
+   "id": "https://openalex.org/W4252226433",
+   "doi": "https://doi.org/10.1021/cen-v047n027.p009a",
+   "year": 1969,
+   "title": "POLLUTION: S0 Sensing Stations"
+  },
+  {
+   "id": "https://openalex.org/W2079461950",
+   "doi": "https://doi.org/10.1111/j.1525-1594.1982.tb04076.x",
+   "year": 1982,
+   "title": "Preparation and In Vitro Evaluation of a New Extracorporeal Dialyzer with Immobilized Insulin"
+  },
+  {
+   "id": "https://openalex.org/W2289140931",
+   "doi": "https://doi.org/10.2172/4098388",
+   "year": 1970,
+   "title": "THE SEARCH FOR Z*'s."
+  },
+  {
+   "id": "https://openalex.org/W2000145800",
+   "doi": "https://doi.org/10.1049/el:19800602",
+   "year": 1980,
+   "title": "New line code for digital subscriber loop"
+  },
+  {
+   "id": "https://openalex.org/W128564298",
+   "doi": null,
+   "year": 1985,
+   "title": "Electrophysical properties of pyrolytic boron nitride"
+  },
+  {
+   "id": "https://openalex.org/W4229985253",
+   "doi": "https://doi.org/10.1061/jsedai.0001513",
+   "year": 1967,
+   "title": "Discussion of “Encourage Applied Research and Publish the Findings”"
+  },
+  {
+   "id": "https://openalex.org/W2405773214",
+   "doi": "https://doi.org/10.2527/jas1968.2751426x",
+   "year": 1968,
+   "title": "Concentration of Liver Iron in Calves and Response to Dietary Iron and Desferrioxamine"
+  },
+  {
+   "id": "https://openalex.org/W2021418009",
+   "doi": "https://doi.org/10.1111/j.1600-0714.1984.tb01422.x",
+   "year": 1984,
+   "title": "Alterations in the volume of the intercellular space between epithelial cells of the hamster cheek‐pouch: quantitative studies of normal and carcinogen‐treated tissues"
+  }
+ ],
+ "new": [
+  {
+   "id": "https://openalex.org/W1965521552",
+   "doi": "https://doi.org/10.1089/ten.tea.2012.0721",
+   "year": 2012,
+   "title": "Collagen: Finding a Solution for the Source"
+  },
+  {
+   "id": "https://openalex.org/W1587596125",
+   "doi": "https://doi.org/10.17628/ecb.2013.2.130-136",
+   "year": 2012,
+   "title": "Eco-friendly inhibitor glycine-Zn2+ system controlling corrosion of carbon steel in well water"
+  },
+  {
+   "id": "https://openalex.org/W2027721551",
+   "doi": "https://doi.org/10.4081/ams.2011.e8",
+   "year": 2011,
+   "title": "Angelica sinensis has inherent endothelial cell toxicity at high concentrations but can also protect the vascular endothelium from oxidative stress-induced injury at moderate concentrations"
+  },
+  {
+   "id": "https://openalex.org/W2271541728",
+   "doi": null,
+   "year": 2010,
+   "title": "Computerized segmentation and measurement of pleural disease"
+  },
+  {
+   "id": "https://openalex.org/W1556466994",
+   "doi": "https://doi.org/10.1002/sia.5091",
+   "year": 2012,
+   "title": "Photoelectron spectroscopic studies of the formation of hydroxyapatite films on 316L stainless steel pretreated with etidronic acid"
+  },
+  {
+   "id": "https://openalex.org/W2133381739",
+   "doi": "https://doi.org/10.1364/ao.51.005253",
+   "year": 2012,
+   "title": "Binary image encryption based on interference of two phase-only masks"
+  },
+  {
+   "id": "https://openalex.org/W2883617540",
+   "doi": null,
+   "year": 2010,
+   "title": "Lanthanide oxide nanotubes and nanorods: synthesis, processing, luminescence and catalytic properties"
+  },
+  {
+   "id": "https://openalex.org/W1697803747",
+   "doi": "https://doi.org/10.26421/qic10.3-4-4",
+   "year": 2010,
+   "title": "Computable constraints on entanglement-sharing of multipartite quantum states"
+  },
+  {
+   "id": "https://openalex.org/W2052913480",
+   "doi": "https://doi.org/10.4236/ojpchem.2012.22011",
+   "year": 2012,
+   "title": "Characterization of the Burning Behaviour of Plastics by a New Method"
+  },
+  {
+   "id": "https://openalex.org/W2086842839",
+   "doi": "https://doi.org/10.1021/cg200733b",
+   "year": 2011,
+   "title": "Growth Mechanism for the Controlled Synthesis of MgH2/Mg Crystals via a Vapor–Solid Process"
+  },
+  {
+   "id": "https://openalex.org/W2102535716",
+   "doi": "https://doi.org/10.1039/c2ra20950k",
+   "year": 2012,
+   "title": "Macromonomer-induced CdTe quantum dots toward multicolor fluorescent patterns and white LEDs"
+  },
+  {
+   "id": "https://openalex.org/W2002410418",
+   "doi": "https://doi.org/10.1517/17425255.2010.482928",
+   "year": 2010,
+   "title": "Flavin-containing reductase: new perspective on the detoxification of nitrobenzodiazepine"
+  },
+  {
+   "id": "https://openalex.org/W2053100835",
+   "doi": "https://doi.org/10.4314/jpb.v8i1.3",
+   "year": 2012,
+   "title": "Evaluation of the suspending property of grewia gum in sulphadimidine suspension"
+  },
+  {
+   "id": "https://openalex.org/W2010374031",
+   "doi": "https://doi.org/10.1103/physrevlett.107.063001",
+   "year": 2011,
+   "title": "Controlling the Phase of a Light Beam with a Single Molecule"
+  },
+  {
+   "id": "https://openalex.org/W575314518",
+   "doi": null,
+   "year": 2011,
+   "title": "Nanostructured PDMS surfaces with patterned wettability"
+  },
+  {
+   "id": "https://openalex.org/W2183202326",
+   "doi": null,
+   "year": 2011,
+   "title": "Sintering of Aluminium and Magnesium Alloy Fiber Structures"
+  },
+  {
+   "id": "https://openalex.org/W2017515387",
+   "doi": "https://doi.org/10.1115/detc2012-70428",
+   "year": 2012,
+   "title": "Three-Dimensional Equilibria and Stability of Nonlinear Curved Beams Using Intrinsic Equations and Shooting"
+  },
+  {
+   "id": "https://openalex.org/W1995671532",
+   "doi": "https://doi.org/10.1117/12.918550",
+   "year": 2012,
+   "title": "Fusion of footsteps and face biometrics on an unsupervised and uncontrolled environment"
+  },
+  {
+   "id": "https://openalex.org/W2484374633",
+   "doi": "https://doi.org/10.1142/9789814415040_0042",
+   "year": 2012,
+   "title": "PHASE-INVERSION TAPE CASTING AND OXYGEN PERMEATION PROPERTIES OF 0.84 0.16 1.92 - 0.8 0.2 3-δ DUAL-PHASE MIXED CONDUCTING COMPOSITE MEMBRANES"
+  },
+  {
+   "id": "https://openalex.org/W2115907624",
+   "doi": "https://doi.org/10.1038/ncomms1996",
+   "year": 2012,
+   "title": "Light-induced spiral mass transport in azo-polymer films under vortex-beam illumination"
+  },
+  {
+   "id": "https://openalex.org/W2417059534",
+   "doi": null,
+   "year": 2011,
+   "title": "[Development of a learning outcome creation program to enhance the competence of public health nurses part of action research to contribute to the local community]."
+  },
+  {
+   "id": "https://openalex.org/W2035874295",
+   "doi": "https://doi.org/10.1134/s0020441212010290",
+   "year": 2012,
+   "title": "A device for the preliminary separation of ions for mass spectrometry analysis"
+  },
+  {
+   "id": "https://openalex.org/W2277150366",
+   "doi": null,
+   "year": 2011,
+   "title": "Two Element Rectangular Microstrip Array Antenna for X and Ku Band Operation"
+  },
+  {
+   "id": "https://openalex.org/W1592038640",
+   "doi": "https://doi.org/10.5703/1288284314686",
+   "year": 2012,
+   "title": "Identifying Successful Mentor Programs"
+  },
+  {
+   "id": "https://openalex.org/W2047221968",
+   "doi": "https://doi.org/10.1163/092050610x550340",
+   "year": 2011,
+   "title": "Biocompatibility of Electrospun Halloysite Nanotube-Doped Poly(Lactic-co-Glycolic Acid) Composite Nanofibers"
+  },
+  {
+   "id": "https://openalex.org/W4242845919",
+   "doi": "https://doi.org/10.1002/adma.v23.32",
+   "year": 2011,
+   "title": null
+  },
+  {
+   "id": "https://openalex.org/W2136487739",
+   "doi": "https://doi.org/10.1002/app.29987",
+   "year": 2010,
+   "title": "Poly(vinyl chloride)–Acacia bark flour composite: Effect of particle size and filler content on mechanical, thermal, and morphological characteristics"
+  },
+  {
+   "id": "https://openalex.org/W2249805096",
+   "doi": null,
+   "year": 2011,
+   "title": "Dissipative processes in superconducting nanodevices: Nanowire-resonators, shunted nanowires, and graphene proximity junctions"
+  },
+  {
+   "id": "https://openalex.org/W2015601728",
+   "doi": "https://doi.org/10.1111/j.1551-2916.2011.04701.x",
+   "year": 2011,
+   "title": "A Special Configuration of Lead Zirconate Titanate Multilayer Stack with Superior Electrical and Optical Properties"
+  },
+  {
+   "id": "https://openalex.org/W2146044652",
+   "doi": "https://doi.org/10.1109/ssp.2012.6319862",
+   "year": 2012,
+   "title": "A heuristic Bayesian design criterion for imaging resolution enhancement"
+  },
+  {
+   "id": "https://openalex.org/W2093004129",
+   "doi": "https://doi.org/10.1002/mmce.20645",
+   "year": 2012,
+   "title": "Design of a multifunctional SRR-loaded printed monopole antenna"
+  },
+  {
+   "id": "https://openalex.org/W2030634887",
+   "doi": "https://doi.org/10.1021/jp102175q",
+   "year": 2010,
+   "title": "Highly Uniform Tm3+-Doped NaYbF4Microtubes: Controlled Synthesis and Intense Ultraviolet Photoluminescence"
+  },
+  {
+   "id": "https://openalex.org/W2091012264",
+   "doi": "https://doi.org/10.1088/0957-4484/23/22/225202",
+   "year": 2012,
+   "title": "Single-nanowire surface plasmon gratings"
+  },
+  {
+   "id": "https://openalex.org/W2054549649",
+   "doi": "https://doi.org/10.1021/jf903964u",
+   "year": 2010,
+   "title": "A Lectin with Anti-HIV-1 Reverse Transcriptase, Antitumor, and Nitric Oxide Inducing Activities from Seeds of Phaseolus vulgaris cv. Extralong Autumn Purple Bean"
+  },
+  {
+   "id": "https://openalex.org/W1980017125",
+   "doi": "https://doi.org/10.4236/wjm.2012.22012",
+   "year": 2012,
+   "title": "3-D Exact Vibration Analysis of a Generalized Thermoelastic Hollow Sphere with Matrix Frobenius Method"
+  },
+  {
+   "id": "https://openalex.org/W2129245851",
+   "doi": "https://doi.org/10.1002/cssc.201200529",
+   "year": 2012,
+   "title": "In Situ Intercalating Expandable Graphite for Mesoporous Carbon/Graphite Nanosheet Composites as High‐Performance Supercapacitor Electrodes"
+  },
+  {
+   "id": "https://openalex.org/W200922518",
+   "doi": null,
+   "year": 2012,
+   "title": "Design and Development of Simple Low Cost Rectangular Microstrip Antenna for Multiband Operation"
+  },
+  {
+   "id": "https://openalex.org/W2077809022",
+   "doi": "https://doi.org/10.4028/www.scientific.net/amr.531.133",
+   "year": 2012,
+   "title": "Research on Discretely Tunable Nd:YAG Ceramic Material"
+  },
+  {
+   "id": "https://openalex.org/W2069412920",
+   "doi": "https://doi.org/10.1115/1.4003396",
+   "year": 2011,
+   "title": "Vibration Analysis of Homogeneous Transradially Isotropic Generalized Thermoelastic Spheres"
+  },
+  {
+   "id": "https://openalex.org/W2098096519",
+   "doi": "https://doi.org/10.1109/nebc.2011.5778713",
+   "year": 2011,
+   "title": "Novel contact lens electrode array for multi-electrode electroretinography (meERG)"
+  },
+  {
+   "id": "https://openalex.org/W2047159385",
+   "doi": "https://doi.org/10.1371/journal.pone.0022198",
+   "year": 2011,
+   "title": "Allele Intersection Analysis: A Novel Tool for Multi Locus Sequence Assignment in Multiply Infected Hosts"
+  },
+  {
+   "id": "https://openalex.org/W2324994005",
+   "doi": "https://doi.org/10.1021/cg1012632",
+   "year": 2010,
+   "title": "Characterization and Growth Mechanism of Selenium Microtubes Synthesized by a Vapor Phase Deposition Route"
+  },
+  {
+   "id": "https://openalex.org/W1869735068",
+   "doi": "https://doi.org/10.1111/j.1600-0897.2011.01000.x",
+   "year": 2011,
+   "title": "Antisperm Contraceptive Vaccines: Where We Are and Where We Are Going?"
+  },
+  {
+   "id": "https://openalex.org/W2031862517",
+   "doi": "https://doi.org/10.1364/ao.50.004604",
+   "year": 2011,
+   "title": "Highly sensitive refractive index sensor based on two cascaded special long-period fiber gratings with rotary refractive index modulation"
+  },
+  {
+   "id": "https://openalex.org/W1994168829",
+   "doi": "https://doi.org/10.1002/adfm.201102272",
+   "year": 2011,
+   "title": "Highly Efficient, Irreversible and Selective Ion Exchange Property of Layered Titanate Nanostructures"
+  },
+  {
+   "id": "https://openalex.org/W2014958857",
+   "doi": "https://doi.org/10.1016/j.pmrj.2010.06.016",
+   "year": 2011,
+   "title": "Neural Interfaces for Control of Upper Limb Prostheses: The State of the Art and Future Possibilities"
+  },
+  {
+   "id": "https://openalex.org/W2035834227",
+   "doi": "https://doi.org/10.1002/ejic.201000465",
+   "year": 2010,
+   "title": "Self‐Assembly and the Properties of a Highly Oriented Hierarchical Nanobelt–Nanoprism Array of Ternary Oxide Zn–In–O"
+  },
+  {
+   "id": "https://openalex.org/W2101842410",
+   "doi": "https://doi.org/10.1111/j.1551-2916.2011.04532.x",
+   "year": 2011,
+   "title": "Luminescent Properties of Eu‐Doped Transparent Glass–Ceramics Containing YPO 4 Nanocrystals"
+  },
+  {
+   "id": "https://openalex.org/W2057550901",
+   "doi": "https://doi.org/10.1119/1.3591319",
+   "year": 2011,
+   "title": "Locating the source of projectile fluid droplets"
+  },
+  {
+   "id": "https://openalex.org/W2130983976",
+   "doi": "https://doi.org/10.1002/smll.201090016",
+   "year": 2010,
+   "title": "Lithography: Fabrication of Hierarchical Pillar Arrays from Thermoplastic and Photosensitive SU‐8 Small 6/2010"
+  },
+  {
+   "id": "https://openalex.org/W1992645691",
+   "doi": "https://doi.org/10.1070/qe2011v041n06abeh014437",
+   "year": 2011,
+   "title": "Symbolic computation of solitons in the normal dispersion regime of inhomogeneous optical fibres"
+  },
+  {
+   "id": "https://openalex.org/W2159276310",
+   "doi": "https://doi.org/10.1021/nn303467r",
+   "year": 2012,
+   "title": "A General Strategy to Superstructured Networks and Nested Self-Similar Networks of Bismuth Compounds"
+  },
+  {
+   "id": "https://openalex.org/W2104761580",
+   "doi": "https://doi.org/10.17159/1727-3781/2010/v13i1a2631",
+   "year": 2010,
+   "title": "The Binding Effect of the Constitutive Documents of Companies: The 1973 and 2008 Companies Acts of South Africa"
+  },
+  {
+   "id": "https://openalex.org/W2167221401",
+   "doi": "https://doi.org/10.4172/2157-7439.1000152",
+   "year": 2012,
+   "title": "The Cytotoxic Effect of Polyelectrolyte Shells Coated Bacterial Cells on Human Leukemia Cells"
+  },
+  {
+   "id": "https://openalex.org/W2336389142",
+   "doi": "https://doi.org/10.2741/e145",
+   "year": 2010,
+   "title": "Male-biased genes of Drosophila melanogaster that are conserved in mammalian testis"
+  },
+  {
+   "id": "https://openalex.org/W2028045356",
+   "doi": "https://doi.org/10.1371/journal.pone.0031318",
+   "year": 2012,
+   "title": "Potent Anti-Inflammatory Activity of Ursolic Acid, a Triterpenoid Antioxidant, Is Mediated through Suppression of NF-κB, AP-1 and NF-AT"
+  },
+  {
+   "id": "https://openalex.org/W2162847835",
+   "doi": "https://doi.org/10.1002/smll.201090004",
+   "year": 2010,
+   "title": "Microparticles: Small 3/2010"
+  },
+  {
+   "id": "https://openalex.org/W1998150718",
+   "doi": "https://doi.org/10.1002/ppap.201000155",
+   "year": 2011,
+   "title": "Characterization of Silicon Oxide Films Deposited from a Permanent‐Magnet Helicon Plasma Source"
+  },
+  {
+   "id": "https://openalex.org/W2143838097",
+   "doi": "https://doi.org/10.1109/lawp.2011.2158285",
+   "year": 2011,
+   "title": "Micromachined 300-GHz SU-8-Based Slotted Waveguide Antenna"
+  },
+  {
+   "id": "https://openalex.org/W2019938399",
+   "doi": "https://doi.org/10.1117/12.840963",
+   "year": 2010,
+   "title": "Synthesis, optical and microscopical characterization of albumin/porous silica/gold nanorods"
+  },
+  {
+   "id": "https://openalex.org/W2485338736",
+   "doi": "https://doi.org/10.1142/9789814355193_0016",
+   "year": 2011,
+   "title": "ENHANCED TRANSMISSION THROUGH SUB-WAVELENGTH APERTURES BY USING METAMATERIALS"
+  },
+  {
+   "id": "https://openalex.org/W2315967566",
+   "doi": "https://doi.org/10.1021/ja2096255",
+   "year": 2011,
+   "title": "Toward a Digital Gene Response: RNA G-Quadruplexes with Fewer Quartets Fold with Higher Cooperativity"
+  },
+  {
+   "id": "https://openalex.org/W2042827196",
+   "doi": "https://doi.org/10.1021/ic201353u",
+   "year": 2011,
+   "title": "Sonochemical Synthesis and Properties of Nanoparticles of FeSbO4"
+  },
+  {
+   "id": "https://openalex.org/W2007797425",
+   "doi": "https://doi.org/10.1021/ol202032k",
+   "year": 2011,
+   "title": "Alkoxyamine-derived Formamidines: Configurational Control and Molecular Folding"
+  },
+  {
+   "id": "https://openalex.org/W2883882288",
+   "doi": null,
+   "year": 2011,
+   "title": "Method Development and Validation of Dexibuprofen for Related Substances in Tablet Dosage form by Reverse Phase High Performance Liquid Chromatography."
+  },
+  {
+   "id": "https://openalex.org/W1650004431",
+   "doi": "https://doi.org/10.48550/arxiv.1009.3005",
+   "year": 2010,
+   "title": "Clocks' synchronization without round-trip conditions"
+  },
+  {
+   "id": "https://openalex.org/W4251912893",
+   "doi": "https://doi.org/10.1364/ecbo.2011.809006",
+   "year": 2011,
+   "title": "Fourier phase contrast multimodal optical microscopy for real time display of phase and fluorescence at the same time"
+  },
+  {
+   "id": "https://openalex.org/W2043121406",
+   "doi": "https://doi.org/10.1364/ao.50.000303",
+   "year": 2011,
+   "title": "Demonstration of a Fresnel axicon"
+  },
+  {
+   "id": "https://openalex.org/W2922122581",
+   "doi": "https://doi.org/10.25911/5d514f6b8af23",
+   "year": 2012,
+   "title": "Design and construction of a fluorescent reporter for small molecules"
+  },
+  {
+   "id": "https://openalex.org/W2071689498",
+   "doi": "https://doi.org/10.1039/c0lc00661k",
+   "year": 2011,
+   "title": "Fast on-demand droplet fusion using transient cavitation bubbles"
+  },
+  {
+   "id": "https://openalex.org/W2162658129",
+   "doi": "https://doi.org/10.1021/ma1029532",
+   "year": 2011,
+   "title": "Novel Redox Hydrogel by in Situ Gelation of Chitosan as a Result of Template Oxidative Polymerization of Hydroquinone"
+  },
+  {
+   "id": "https://openalex.org/W2333530786",
+   "doi": "https://doi.org/10.1021/jp105524h",
+   "year": 2010,
+   "title": "Photoacoustic Sensitization and Laser-Induced Cavitation in Polymer Solutions by Carbon Nanotubes"
+  },
+  {
+   "id": "https://openalex.org/W2120459053",
+   "doi": "https://doi.org/10.1002/anie.201203654",
+   "year": 2012,
+   "title": "Back Cover: A Light‐Induced Phase Exhibiting Slow Magnetic Relaxation in a Cyanide‐Bridged [Fe4Co2] Complex (Angew. Chem. Int. Ed. 26/2012)"
+  },
+  {
+   "id": "https://openalex.org/W2058385438",
+   "doi": "https://doi.org/10.1038/ncomms1228",
+   "year": 2011,
+   "title": "Multimode quantum interference of photons in multiport integrated devices"
+  },
+  {
+   "id": "https://openalex.org/W2917816002",
+   "doi": "https://doi.org/10.1002/0471142700.nc0903s40",
+   "year": 2010,
+   "title": "In Vitro Selection of RNA Aptamers to a Protein Target by Filter Immobilization"
+  },
+  {
+   "id": "https://openalex.org/W2018112813",
+   "doi": "https://doi.org/10.1364/oe.19.005979",
+   "year": 2011,
+   "title": "Statistics properties of a cylindrical vector partially coherent beam"
+  },
+  {
+   "id": "https://openalex.org/W1984997411",
+   "doi": "https://doi.org/10.1088/0029-5515/51/6/063012",
+   "year": 2011,
+   "title": "Dynamic decoupling and multi-mode magnetic feedback for error field correction in RFX-mod"
+  },
+  {
+   "id": "https://openalex.org/W2004459251",
+   "doi": "https://doi.org/10.1039/c0ob01132k",
+   "year": 2011,
+   "title": "Signal control by self-assembly of fluorophores in a molecular beacon—a model study"
+  },
+  {
+   "id": "https://openalex.org/W1994338882",
+   "doi": "https://doi.org/10.1109/sceecs.2012.6184847",
+   "year": 2012,
+   "title": "Variable scaling factor based invisible image watermarking using hybrid DWT — SVD compression — Decompression technique"
+  },
+  {
+   "id": "https://openalex.org/W2020183999",
+   "doi": "https://doi.org/10.1145/2168996.2168997",
+   "year": 2012,
+   "title": "Image registration for foveated panoramic sensing"
+  },
+  {
+   "id": "https://openalex.org/W1976303564",
+   "doi": "https://doi.org/10.1145/2184489.2184494",
+   "year": 2011,
+   "title": "Mobile token-based authentication on a budget"
+  },
+  {
+   "id": "https://openalex.org/W1985248296",
+   "doi": "https://doi.org/10.1021/ol302708r",
+   "year": 2012,
+   "title": "Azobisisobutyronitrile Initiated Aerobic Oxidative Transformation of Amines: Coupling of Primary Amines and Cyanation of Tertiary Amines"
+  },
+  {
+   "id": "https://openalex.org/W2356935654",
+   "doi": null,
+   "year": 2012,
+   "title": "SYNTHESIS OF NEW THERMOSENSITIVE MICROGEL FROM HYDROXYPROPYL CELLULOSE"
+  },
+  {
+   "id": "https://openalex.org/W2095975535",
+   "doi": "https://doi.org/10.1109/lpt.2009.2038283",
+   "year": 2010,
+   "title": "Enhancing the Reception of Propagating Surface Plasmons Using a Nanoantenna"
+  },
+  {
+   "id": "https://openalex.org/W1518531567",
+   "doi": "https://doi.org/10.1103/physreve.84.061504",
+   "year": 2011,
+   "title": "Deionization shocks in microstructures"
+  },
+  {
+   "id": "https://openalex.org/W2051670222",
+   "doi": "https://doi.org/10.1109/jlt.2012.2216255",
+   "year": 2012,
+   "title": "Joint-Polarization and Joint-Subchannel Carrier Phase Estimation for 16-QAM Optical Systems"
+  },
+  {
+   "id": "https://openalex.org/W2132565938",
+   "doi": "https://doi.org/10.1002/jsfa.5610",
+   "year": 2012,
+   "title": "Quinoa starch granules: a candidate for stabilising food‐grade Pickering emulsions"
+  },
+  {
+   "id": "https://openalex.org/W2061052874",
+   "doi": "https://doi.org/10.1103/physreve.82.055301",
+   "year": 2010,
+   "title": "Transverse flow in thin superhydrophobic channels"
+  },
+  {
+   "id": "https://openalex.org/W2163575542",
+   "doi": "https://doi.org/10.1080/09593330.2010.484073",
+   "year": 2010,
+   "title": "Extremophiles and their application to veterinary medicine"
+  },
+  {
+   "id": "https://openalex.org/W2137485942",
+   "doi": "https://doi.org/10.1039/c0py00144a",
+   "year": 2010,
+   "title": "Selenium-containing block copolymers and their oxidation-responsive aggregates"
+  },
+  {
+   "id": "https://openalex.org/W2146913355",
+   "doi": "https://doi.org/10.1364/ol.36.000352",
+   "year": 2011,
+   "title": "Optimization of focusing of linearly polarized light"
+  },
+  {
+   "id": "https://openalex.org/W153240298",
+   "doi": "https://doi.org/10.37099/mtu.dc.etd-restricted/74",
+   "year": 2012,
+   "title": "Soft Lewis acid catalyzed cycloisomerization of oxo-alkynes and enynes"
+  },
+  {
+   "id": "https://openalex.org/W1983973423",
+   "doi": "https://doi.org/10.1103/physreva.83.043815",
+   "year": 2011,
+   "title": "Quantum interference of stored dual-channel spin-wave excitations in a single tripod system"
+  },
+  {
+   "id": "https://openalex.org/W2060919829",
+   "doi": "https://doi.org/10.1039/c0jm03709e",
+   "year": 2011,
+   "title": "Simultaneous purification and surface plasmon resonance characterization of mechanoresponsive, discretely functionalized gold nanoparticles"
+  },
+  {
+   "id": "https://openalex.org/W2319618524",
+   "doi": "https://doi.org/10.1021/jp204827q",
+   "year": 2011,
+   "title": "Tuning of Thermal Conductivity and Rheology of Nanofluids Using an External Stimulus"
+  },
+  {
+   "id": "https://openalex.org/W2091352707",
+   "doi": "https://doi.org/10.1524/zpch.2011.0047",
+   "year": 2011,
+   "title": "Electrochemical Patterning of Polyaniline on Insulating Substrates"
+  },
+  {
+   "id": "https://openalex.org/W2065492992",
+   "doi": "https://doi.org/10.1680/geolett.11.00031",
+   "year": 2011,
+   "title": "A simplified mechanically based model for predicting partially drained behaviour of penetrometers and shallow foundations"
+  },
+  {
+   "id": "https://openalex.org/W2035011868",
+   "doi": "https://doi.org/10.1080/10601325.2011.603623",
+   "year": 2011,
+   "title": "Optical Study of Chitosan-Ofloxacin Complex for Biomedical Applications"
+  },
+  {
+   "id": "https://openalex.org/W2321702016",
+   "doi": "https://doi.org/10.1021/la301031b",
+   "year": 2012,
+   "title": "Reversible Electrochemical Switching of Polymer Brushes Grafted onto Conducting Polymer Films"
+  },
+  {
+   "id": "https://openalex.org/W2121762037",
+   "doi": null,
+   "year": 2011,
+   "title": "MetaBeam: Multi-layer CRLH antennas for 24 GHz sensor applications based on low cost PCBs"
+  },
+  {
+   "id": "https://openalex.org/W580532152",
+   "doi": null,
+   "year": 2010,
+   "title": "A computational model of cognitive interference without neural inhibitory mechanisms"
+  },
+  {
+   "id": "https://openalex.org/W4243995257",
+   "doi": "https://doi.org/10.1002/smll.v6:3",
+   "year": 2010,
+   "title": null
+  },
+  {
+   "id": "https://openalex.org/W2170239655",
+   "doi": "https://doi.org/10.1021/am300189n",
+   "year": 2012,
+   "title": "Ordered Array of Gold Semishells on TiO 2 Spheres: An Ultrasensitive and Recyclable SERS Substrate"
+  },
+  {
+   "id": "https://openalex.org/W2273361111",
+   "doi": null,
+   "year": 2012,
+   "title": "Magneto-optical contrast in liquid-state optically-detected NMR spectroscopy"
+  },
+  {
+   "id": "https://openalex.org/W1888545411",
+   "doi": "https://doi.org/10.1111/j.1574-6968.2010.02153.x",
+   "year": 2010,
+   "title": "In vitro inhibition of bacterial growth by iron chelators"
+  },
+  {
+   "id": "https://openalex.org/W2052591833",
+   "doi": "https://doi.org/10.1121/1.3672703",
+   "year": 2012,
+   "title": "Faciliation of Mandarin tone perception by visual speech in clear and degraded audio: Implications for cochlear implants"
+  },
+  {
+   "id": "https://openalex.org/W2028048380",
+   "doi": "https://doi.org/10.1155/2013/618684",
+   "year": 2012,
+   "title": "[Retracted] Development of Ecofriendly Corrosion Inhibitors for Application in Acidization of Petroleum Oil Well"
+  },
+  {
+   "id": "https://openalex.org/W1998159445",
+   "doi": "https://doi.org/10.1117/12.897627",
+   "year": 2011,
+   "title": "Silver doped nanomaterials and their possible use for antibacterial photodynamic activity"
+  },
+  {
+   "id": "https://openalex.org/W2093899323",
+   "doi": "https://doi.org/10.1039/c2jm14680k",
+   "year": 2012,
+   "title": "Reduced graphene oxide/nickel nanocomposites: facile synthesis, magnetic and catalytic properties"
+  },
+  {
+   "id": "https://openalex.org/W2170412831",
+   "doi": "https://doi.org/10.1016/j.medengphy.2012.02.004",
+   "year": 2012,
+   "title": "Thoughts turned into high-level commands: Proof-of-concept study of a vision-guided robot arm driven by functional MRI (fMRI) signals"
+  },
+  {
+   "id": "https://openalex.org/W2465754372",
+   "doi": "https://doi.org/10.5897/ajmr11.139",
+   "year": 2011,
+   "title": "The influence of mitochondrial inhibitors on the life cycle of Phytophthora"
+  },
+  {
+   "id": "https://openalex.org/W2056963670",
+   "doi": "https://doi.org/10.1039/c0sm00003e",
+   "year": 2010,
+   "title": "Directed assembly of yeast cells into living yeastosomes by microbubble templating"
+  },
+  {
+   "id": "https://openalex.org/W1982137465",
+   "doi": "https://doi.org/10.1088/0022-3727/43/5/055404",
+   "year": 2010,
+   "title": "Gradient index metamaterials realized by drilling hole arrays"
+  },
+  {
+   "id": "https://openalex.org/W2055254824",
+   "doi": "https://doi.org/10.1109/lpt.2012.2210200",
+   "year": 2012,
+   "title": "Narrow-Linewidth Tunable Lasers With Retro-Reflective External Cavity"
+  },
+  {
+   "id": "https://openalex.org/W3024340875",
+   "doi": null,
+   "year": 2011,
+   "title": "Thermo-Mechanical Properties of Stretchable Nanocomposites Based on Honeycomb Networks of Carbon Nanotubes."
+  },
+  {
+   "id": "https://openalex.org/W1968585458",
+   "doi": "https://doi.org/10.1175/2010jtecha1513.1",
+   "year": 2011,
+   "title": "The Truncated Geometric Approximation and the Size Distribution of Small Atmospheric Particles"
+  },
+  {
+   "id": "https://openalex.org/W2162171772",
+   "doi": "https://doi.org/10.1109/lpt.2010.2047718",
+   "year": 2010,
+   "title": "Experimental Proof-of-Concept of Bidirectional Gigabit Transmission Over Single Step-Index Plastic Optical Fiber"
+  },
+  {
+   "id": "https://openalex.org/W2006085941",
+   "doi": "https://doi.org/10.1002/jrs.2923",
+   "year": 2011,
+   "title": "Phase‐locking of two independent degenerate coherent anti‐Stokes Raman scattering processes: concept, proposed all‐optical implementation, and potential applications"
+  },
+  {
+   "id": "https://openalex.org/W1996683106",
+   "doi": "https://doi.org/10.4236/eng.2012.410b003",
+   "year": 2012,
+   "title": "Red Blood Cell Mechanical Stability"
+  },
+  {
+   "id": "https://openalex.org/W2093700776",
+   "doi": "https://doi.org/10.1109/aps.2012.6349405",
+   "year": 2012,
+   "title": "Design of a planar near-field plate"
+  },
+  {
+   "id": "https://openalex.org/W2120577813",
+   "doi": "https://doi.org/10.1109/pvsc.2012.6317953",
+   "year": 2012,
+   "title": "A novel solar simulator based on a super-continuum laser"
+  },
+  {
+   "id": "https://openalex.org/W82029116",
+   "doi": "https://doi.org/10.4049/jimmunol.186.supp.67.12",
+   "year": 2011,
+   "title": "Sindbis virus suppresses Akt/mTOR signaling late during infection and induces mTOR independent antiviral response in HEK293T cells (67.12)"
+  },
+  {
+   "id": "https://openalex.org/W1497521211",
+   "doi": "https://doi.org/10.1111/j.1751-1097.2011.01023.x",
+   "year": 2011,
+   "title": "Manipulation of Förster Energy Transfer of Coupled Fluorophores Through Biotransformation by Pseudomonas resinovorans CA10"
+  },
+  {
+   "id": "https://openalex.org/W2949545551",
+   "doi": "https://doi.org/10.48550/arxiv.1006.5354",
+   "year": 2010,
+   "title": "Optimal Trade-Off for Succinct String Indexes"
+  },
+  {
+   "id": "https://openalex.org/W2154063648",
+   "doi": "https://doi.org/10.1007/s11671-010-9700-4",
+   "year": 2010,
+   "title": "Solvothermal Synthesis, Structure and Optical Property of Nanosized CoSb3 Skutterudite"
+  },
+  {
+   "id": "https://openalex.org/W2258077514",
+   "doi": "https://doi.org/10.1103/physrevlett.109.253902",
+   "year": 2012,
+   "title": "Nonuniversal Intensity Correlations in a Two-Dimensional Anderson-Localizing Random Medium"
+  },
+  {
+   "id": "https://openalex.org/W1991526047",
+   "doi": "https://doi.org/10.1103/physreva.81.023616",
+   "year": 2010,
+   "title": "Dynamics of a Bose-Einstein condensate in a horizontally vibrating shallow optical lattice"
+  },
+  {
+   "id": "https://openalex.org/W2172230179",
+   "doi": null,
+   "year": 2012,
+   "title": "Production of Fructooligosaccharides by Aspergillus phoenicis Biofilm on Polyethylene as Inert Support"
+  },
+  {
+   "id": "https://openalex.org/W2150204651",
+   "doi": "https://doi.org/10.1039/c004521g",
+   "year": 2010,
+   "title": "Digital PCR on a SlipChip"
+  },
+  {
+   "id": "https://openalex.org/W2016668262",
+   "doi": "https://doi.org/10.1155/2012/130725",
+   "year": 2012,
+   "title": "Growth Mechanism of a Hybrid Structure Consisting of a Graphite Layer on Top of Vertical Carbon Nanotubes"
+  },
+  {
+   "id": "https://openalex.org/W2140592746",
+   "doi": "https://doi.org/10.55782/ane-2011-1819",
+   "year": 2011,
+   "title": "Proliferation capacity of cord blood derived neural stem cell line on different micro-scale biofunctional domains"
+  },
+  {
+   "id": "https://openalex.org/W2035896074",
+   "doi": "https://doi.org/10.1103/physreva.82.013829",
+   "year": 2010,
+   "title": "Spectral shifts and switches in random fields upon interaction with negative-phase materials"
+  },
+  {
+   "id": "https://openalex.org/W236041193",
+   "doi": "https://doi.org/10.21608/jva.2011.45310",
+   "year": 2011,
+   "title": "Neurometry and Neurocraniometry of the Nigerian Local Dog (Canis lupus familiaris)"
+  },
+  {
+   "id": "https://openalex.org/W2312292211",
+   "doi": "https://doi.org/10.1021/ja105246b",
+   "year": 2010,
+   "title": "Spatially Controlled DNA Nanopatterns by “Click” Chemistry Using Oligonucleotides with Different Anchoring Sites"
+  },
+  {
+   "id": "https://openalex.org/W2070946768",
+   "doi": "https://doi.org/10.1177/0954008312445227",
+   "year": 2012,
+   "title": "Microwave-assisted preparation of urethane-modified polyetheramide coatings from Jatropha seed oil"
+  },
+  {
+   "id": "https://openalex.org/W2020671614",
+   "doi": "https://doi.org/10.1103/physreve.81.021607",
+   "year": 2010,
+   "title": "Kinetic Monte Carlo simulation of faceted islands in heteroepitaxy using a multistate lattice model"
+  },
+  {
+   "id": "https://openalex.org/W2317245254",
+   "doi": "https://doi.org/10.1021/ar300177q",
+   "year": 2012,
+   "title": "Effect of Covalent Chemistry on the Electronic Structure and Properties of Carbon Nanotubes and Graphene"
+  },
+  {
+   "id": "https://openalex.org/W1911190983",
+   "doi": "https://doi.org/10.1002/jbm.a.34286",
+   "year": 2012,
+   "title": "Mechanical evaluation and cell response of woven polyetheretherketone scaffolds"
+  },
+  {
+   "id": "https://openalex.org/W2091682410",
+   "doi": "https://doi.org/10.1007/s12274-010-0057-x",
+   "year": 2010,
+   "title": "Ag2Se complex nanostructures with photocatalytic activity and superhydrophobicity"
+  },
+  {
+   "id": "https://openalex.org/W2009683934",
+   "doi": "https://doi.org/10.1097/aci.0b013e3283511396",
+   "year": 2012,
+   "title": "The role of lymphocyte proliferation tests in assessing occupational sensitization and disease"
+  },
+  {
+   "id": "https://openalex.org/W1989801452",
+   "doi": "https://doi.org/10.1088/2040-8978/14/5/055004",
+   "year": 2012,
+   "title": "Creation of uniform three-dimensional optical chain through tight focusing of space-variant polarized beams"
+  },
+  {
+   "id": "https://openalex.org/W2083196610",
+   "doi": "https://doi.org/10.3155/1047-3289.61.5.511",
+   "year": 2011,
+   "title": "The Reduction of Dioxin Emissions from the Processes of Heat and Power Generation"
+  },
+  {
+   "id": "https://openalex.org/W2319143168",
+   "doi": "https://doi.org/10.1021/jo201329n",
+   "year": 2011,
+   "title": "Synthetic Routes to, Transformations of, and Rather Surprising Stabilities of (N-Methyl-N-phenylcarbamoyl)sulfenyl Chloride, ((N-Methyl-N-phenylcarbamoyl)dithio)carbonyl Chloride, and Related Compounds"
+  },
+  {
+   "id": "https://openalex.org/W2328372672",
+   "doi": "https://doi.org/10.2174/092986710794182944",
+   "year": 2010,
+   "title": "Neuronal Histamine and its Receptors: Implication of the Pharmacological Treatment of Obesity"
+  },
+  {
+   "id": "https://openalex.org/W7135460249",
+   "doi": null,
+   "year": 2012,
+   "title": "Pyrazine Carbonyl Compounds - Building Blocks in Dynamic Combinatorial Systems"
+  },
+  {
+   "id": "https://openalex.org/W2031621925",
+   "doi": "https://doi.org/10.1021/la304034b",
+   "year": 2012,
+   "title": "Self-Assembled Hyperbranched Polymer–Gold Nanoparticle Hybrids: Understanding the Effect of Polymer Coverage on Assembly Size and SERS Performance"
+  },
+  {
+   "id": "https://openalex.org/W335740207",
+   "doi": null,
+   "year": 2012,
+   "title": "Investigation of the Interaction between H2 and trap sites in Duplex Steel by Scanning Kelvin Probe Force Microscopy"
+  },
+  {
+   "id": "https://openalex.org/W2037843676",
+   "doi": "https://doi.org/10.1371/journal.pone.0013207",
+   "year": 2010,
+   "title": "Correlation Analysis for Protein Evolutionary Family Based on Amino Acid Position Mutations and Application in PDZ Domain"
+  },
+  {
+   "id": "https://openalex.org/W1433777532",
+   "doi": "https://doi.org/10.5281/zenodo.1333884",
+   "year": 2012,
+   "title": "The Study Of The Interaction Between Catanionic Surface Micelle Sds-Ctab And Insulin At Air/Water Interface"
+  },
+  {
+   "id": "https://openalex.org/W2157249154",
+   "doi": "https://doi.org/10.1109/icsens.2010.5690646",
+   "year": 2010,
+   "title": "Principles and applications of active tactile sensing strategies in the rat vibrissal system"
+  },
+  {
+   "id": "https://openalex.org/W2076014993",
+   "doi": "https://doi.org/10.1177/0021998310377935",
+   "year": 2010,
+   "title": "Nanocomposites of poly(3,4-ethylenedioxythiophene) and montmorillonite clay: synthesis and characterization"
+  },
+  {
+   "id": "https://openalex.org/W2053754745",
+   "doi": "https://doi.org/10.1002/marc.200900799",
+   "year": 2010,
+   "title": "Colloid‐Assisted Self‐Assembly of Robust, Three‐Dimensional Networks of Carbon Nanotubes over Large Areas"
+  },
+  {
+   "id": "https://openalex.org/W1984692273",
+   "doi": "https://doi.org/10.1108/03699421011028671",
+   "year": 2010,
+   "title": "Synthesis and applications of crosslinker TETS"
+  },
+  {
+   "id": "https://openalex.org/W2330653142",
+   "doi": "https://doi.org/10.1166/jbn.2011.1288",
+   "year": 2011,
+   "title": "No Enhanced Expression and Infectivity of Porcine Endogenous Retrovirus in Primary Porcine Hepatocytes with Chitosan Nanofiber Scaffold"
+  },
+  {
+   "id": "https://openalex.org/W2039523062",
+   "doi": "https://doi.org/10.3141/2286-10",
+   "year": 2012,
+   "title": "Effect of Inclement Weather on Two Capacity Flows at Recurring Freeway Bottlenecks"
+  },
+  {
+   "id": "https://openalex.org/W1559630199",
+   "doi": "https://doi.org/10.5772/28876",
+   "year": 2011,
+   "title": "Intramolecular N-H···X (X = F, Cl, Br, I, and S) Hydrogen Bonding in Aromatic Amide Derivatives - The X-Ray Crystallographic Investigation"
+  },
+  {
+   "id": "https://openalex.org/W2100413972",
+   "doi": "https://doi.org/10.1186/1756-8722-5-39",
+   "year": 2012,
+   "title": "Generation and characterization of a highly effective protein substrate for analysis of FLT3 activity"
+  },
+  {
+   "id": "https://openalex.org/W2031053015",
+   "doi": "https://doi.org/10.1063/1.4717746",
+   "year": 2012,
+   "title": "Phononic bandgaps in graphene-based materials"
+  },
+  {
+   "id": "https://openalex.org/W2260727948",
+   "doi": "https://doi.org/10.20308/ejpe.47142",
+   "year": 2011,
+   "title": "Eigenenergies of a Relativistic Particle in an Infinite Range Linear Potential Using WKB Method."
+  },
+  {
+   "id": "https://openalex.org/W85573292",
+   "doi": "https://doi.org/10.6100/ir716555",
+   "year": 2011,
+   "title": "Long-range surface polaritons in thin layers of absorbing materials"
+  },
+  {
+   "id": "https://openalex.org/W2085191961",
+   "doi": "https://doi.org/10.1088/0967-3334/32/8/014",
+   "year": 2011,
+   "title": "Modeling of hyaluronan clearance with application to estimation of lymph flow"
+  },
+  {
+   "id": "https://openalex.org/W2063776034",
+   "doi": "https://doi.org/10.1103/physrevlett.107.118301",
+   "year": 2011,
+   "title": "Overlimiting Current in a Microchannel"
+  },
+  {
+   "id": "https://openalex.org/W2088709801",
+   "doi": "https://doi.org/10.1039/c0jm04569a",
+   "year": 2011,
+   "title": "Magnetic Fe3O4@C@Cu2O composites with bean-like core/shell nanostructures: Synthesis, properties and application in recyclable photocatalytic degradation of dye pollutants"
+  },
+  {
+   "id": "https://openalex.org/W2056862964",
+   "doi": "https://doi.org/10.1364/oe.19.005970",
+   "year": 2011,
+   "title": "Plasmonic EIT-like switching in bright-dark-bright plasmon resonators"
+  },
+  {
+   "id": "https://openalex.org/W2403367166",
+   "doi": null,
+   "year": 2011,
+   "title": "[A new algorithm for the establishment of blood relationship based on the application of the dermatoglyphic technique]."
+  },
+  {
+   "id": "https://openalex.org/W2167832628",
+   "doi": "https://doi.org/10.1039/c1nr10959f",
+   "year": 2011,
+   "title": "Ultrathin conformal coating for complex magneto-photonic structures"
+  },
+  {
+   "id": "https://openalex.org/W2038401467",
+   "doi": "https://doi.org/10.4236/eng.2011.33029",
+   "year": 2011,
+   "title": "Transient Waves Due to Thermal Sources in a Generalized Piezothermoelastic Half-Space"
+  },
+  {
+   "id": "https://openalex.org/W1993442574",
+   "doi": "https://doi.org/10.1088/1367-2630/13/6/063014",
+   "year": 2011,
+   "title": "Nonlocal restoration of two-mode squeezing in the presence of strong optical loss"
+  },
+  {
+   "id": "https://openalex.org/W2123280966",
+   "doi": "https://doi.org/10.1109/tmtt.2010.2078010",
+   "year": 2010,
+   "title": "Arbitrary Electromagnetic Conductor Boundaries Using Faraday Rotation in a Grounded Ferrite Slab"
+  },
+  {
+   "id": "https://openalex.org/W2053670662",
+   "doi": "https://doi.org/10.1371/journal.pone.0020941",
+   "year": 2011,
+   "title": "Purification of Immature Neuronal Cells from Neural Stem Cell Progeny"
+  },
+  {
+   "id": "https://openalex.org/W2041674413",
+   "doi": "https://doi.org/10.1088/0031-9155/55/24/018",
+   "year": 2010,
+   "title": "Comparison of analyzer-based imaging computed tomography extraction algorithms and application to bone-cartilage imaging"
+  },
+  {
+   "id": "https://openalex.org/W2087523145",
+   "doi": "https://doi.org/10.4028/www.scientific.net/amr.199-200.865",
+   "year": 2011,
+   "title": "Dynamic Analyzing the Vibro-Impact System with Time-Varying Mass"
+  },
+  {
+   "id": "https://openalex.org/W2006670633",
+   "doi": "https://doi.org/10.1088/0957-4484/21/28/285701",
+   "year": 2010,
+   "title": "Synthesis and characterization of new bifunctional nanocomposites possessing upconversion and oxygen-sensing properties"
+  },
+  {
+   "id": "https://openalex.org/W2054846947",
+   "doi": "https://doi.org/10.1134/s0003683812040072",
+   "year": 2012,
+   "title": "Isolation and functional characterization of lipase from the thermophilic alkali-tolerant bacterium Thermosyntropha lipolytica"
+  },
+  {
+   "id": "https://openalex.org/W2136295856",
+   "doi": "https://doi.org/10.1088/0022-3727/45/3/035101",
+   "year": 2011,
+   "title": "Transmission resonances in rectangular hole trimer arrays: the role of unit configuration"
+  },
+  {
+   "id": "https://openalex.org/W1849209432",
+   "doi": "https://doi.org/10.48550/arxiv.1111.6322",
+   "year": 2011,
+   "title": "Strain-tunable direct band gap of ZnO monolayer in graphene-like honeycomb structure"
+  },
+  {
+   "id": "https://openalex.org/W2035328210",
+   "doi": "https://doi.org/10.1155/2012/293650",
+   "year": 2012,
+   "title": "Comprehensive Evaluation of Anti-hyperglycemic Activity of FractionatedMomordica charantiaSeed Extract in Alloxan-Induced Diabetic Rats"
+  },
+  {
+   "id": "https://openalex.org/W1966771337",
+   "doi": "https://doi.org/10.1002/adma.201200289",
+   "year": 2012,
+   "title": "Functional Fibers with Unique Wettability Inspired by Spider Silks"
+  },
+  {
+   "id": "https://openalex.org/W2317344707",
+   "doi": "https://doi.org/10.1021/jf103867g",
+   "year": 2011,
+   "title": "Characterization of a Glutenin-Specific Serine Proteinase of Sunn Bug Eurygaster integricepts Put."
+  },
+  {
+   "id": "https://openalex.org/W2151875497",
+   "doi": "https://doi.org/10.1109/lawp.2011.2164890",
+   "year": 2011,
+   "title": "A Dual-Band Printed Electrically Small Antenna Covered by Two Capacitive Split-Ring Resonators"
+  },
+  {
+   "id": "https://openalex.org/W1998044592",
+   "doi": "https://doi.org/10.1088/0953-4075/45/17/175301",
+   "year": 2012,
+   "title": "Loading a39K crossed optical dipole trap from a magneto-optical trap"
+  },
+  {
+   "id": "https://openalex.org/W1994640792",
+   "doi": "https://doi.org/10.1016/j.proeng.2011.12.328",
+   "year": 2011,
+   "title": "A colorimetric CO sensor for fire detection"
+  },
+  {
+   "id": "https://openalex.org/W2082608575",
+   "doi": "https://doi.org/10.1089/lap.2011.0128",
+   "year": 2011,
+   "title": "Intraabdominal Laparoscopy-Assisted “Open” Vessel Ligation of Testicular Vessels: A Potential Treatment for Varicocele"
+  },
+  {
+   "id": "https://openalex.org/W2117094176",
+   "doi": "https://doi.org/10.1364/ao.49.000673",
+   "year": 2010,
+   "title": "Controllable rotation of optical beams with bored helical phases"
+  },
+  {
+   "id": "https://openalex.org/W2117264942",
+   "doi": "https://doi.org/10.1109/twc.2012.021512.111150",
+   "year": 2012,
+   "title": "Outage-Optimal TDMA Based Scheduling in Relay-Assisted MIMO Cellular Networks"
+  },
+  {
+   "id": "https://openalex.org/W2021216777",
+   "doi": "https://doi.org/10.2118/133345-ms",
+   "year": 2010,
+   "title": "Maximizing the Oil Recovery through Immiscible Water Alternating Gas (IWAG) in Mature Offshore Field"
+  },
+  {
+   "id": "https://openalex.org/W147797440",
+   "doi": null,
+   "year": 2012,
+   "title": "Low Temperature Hole Transport in Single Crystal Synthetic Diamond"
+  },
+  {
+   "id": "https://openalex.org/W610955094",
+   "doi": "https://doi.org/10.5075/epfl-thesis-5584",
+   "year": 2012,
+   "title": "Routes to Novel Colloidal Gels"
+  },
+  {
+   "id": "https://openalex.org/W2023099215",
+   "doi": "https://doi.org/10.1364/fio.2010.fthq3",
+   "year": 2010,
+   "title": "Analysis and Design of a Microring Inline Single Wavelength Reflector"
+  },
+  {
+   "id": "https://openalex.org/W2041267976",
+   "doi": "https://doi.org/10.4028/www.scientific.net/amr.399-401.1915",
+   "year": 2011,
+   "title": "Synthesis and Characterization of Lamellar Nanostructured Yttrium Films Using Lyotropic Liquid Crystalline Templates"
+  },
+  {
+   "id": "https://openalex.org/W2006142975",
+   "doi": "https://doi.org/10.1364/ol.37.004952",
+   "year": 2012,
+   "title": "Control and tuning of a suspended Fabry–Perot cavity using digitally enhanced heterodyne interferometry"
+  },
+  {
+   "id": "https://openalex.org/W2072331678",
+   "doi": "https://doi.org/10.1109/nstsi.2011.6111804",
+   "year": 2011,
+   "title": "Multi-Walled Carbon Nanotubes Polymer Composites by Electrophoretic Deposition"
+  },
+  {
+   "id": "https://openalex.org/W2011207369",
+   "doi": "https://doi.org/10.1007/s12274-012-0283-5",
+   "year": 2012,
+   "title": "Facile carbonaceous microsphere templated synthesis of Co3O4 hollow spheres and their electrochemical performance in supercapacitors"
+  },
+  {
+   "id": "https://openalex.org/W2122477644",
+   "doi": "https://doi.org/10.1111/jace.12086",
+   "year": 2012,
+   "title": "Elaboration, Structure, and Luminescence of Eu 3+ ‐Doped BaLuF 5 ‐Based Transparent Glass‐Ceramics"
+  },
+  {
+   "id": "https://openalex.org/W2043531808",
+   "doi": "https://doi.org/10.1002/chem.200902484",
+   "year": 2010,
+   "title": "First‐Principles Prediction of Nucleophilicity Parameters for π Nucleophiles: Implications for Mechanistic Origin of Mayr’s Equation"
+  },
+  {
+   "id": "https://openalex.org/W2093896817",
+   "doi": "https://doi.org/10.4236/wjm.2011.15031",
+   "year": 2011,
+   "title": "Acousto-Diffusive Waves in a Piezoelectric-Semiconductor-Piezoelectric Sandwich Structure"
+  },
+  {
+   "id": "https://openalex.org/W2115496786",
+   "doi": "https://doi.org/10.1002/mabi.201100501",
+   "year": 2012,
+   "title": "Enzymatic Mineralization of Hydrogels for Bone Tissue Engineering by Incorporation of Alkaline Phosphatase"
+  },
+  {
+   "id": "https://openalex.org/W2036842477",
+   "doi": "https://doi.org/10.1117/12.889375",
+   "year": 2011,
+   "title": "Fourier phase contrast multimodal optical microscopy for real time display of phase and fluorescence at the same time"
+  },
+  {
+   "id": "https://openalex.org/W2085309369",
+   "doi": "https://doi.org/10.1039/c0nj00393j",
+   "year": 2010,
+   "title": "Synthesis and characterization of multifunctional CdTe/Fe2O3@SiO2 core/shell nanosensors for Hg2+ ions detection"
+  },
+  {
+   "id": "https://openalex.org/W2063659551",
+   "doi": "https://doi.org/10.1134/s0006297911040067",
+   "year": 2011,
+   "title": "Purification of a lectin from fruit bodies of Lactarius pergamenus (Fr.) Fr. and studies of its properties"
+  },
+  {
+   "id": "https://openalex.org/W2117662997",
+   "doi": "https://doi.org/10.7150/thno.4024",
+   "year": 2012,
+   "title": "Radiolabeled Peptides: Valuable Tools for the Detection and Treatment of Cancer"
+  },
+  {
+   "id": "https://openalex.org/W2023569539",
+   "doi": "https://doi.org/10.1556/achrom.24.2012.3.8",
+   "year": 2012,
+   "title": "Highly sensitive liquid chromatographic analysis of artemisinin and its derivatives after pre-column derivatization with 4-carboxyl-2,6-dinitrobenzene diazonium ion"
+  },
+  {
+   "id": "https://openalex.org/W2071759321",
+   "doi": "https://doi.org/10.9790/3021-0204650655",
+   "year": 2012,
+   "title": "Design and Development of Triple Band Monopole Antenna and Effect of Slot on Notch Band Variation"
+  },
+  {
+   "id": "https://openalex.org/W78830469",
+   "doi": null,
+   "year": 2012,
+   "title": "Separation of polyphenol rich fraction from dried ginger rhizomes"
+  },
+  {
+   "id": "https://openalex.org/W4214597676",
+   "doi": "https://doi.org/10.1097/opx.0b013e31827077e5",
+   "year": 2012,
+   "title": "In the News/New Products"
+  },
+  {
+   "id": "https://openalex.org/W2086414782",
+   "doi": "https://doi.org/10.4103/0975-7406.84441",
+   "year": 2011,
+   "title": "Simultaneous determination of related substances of telmisartan and hydrochlorothiazide in tablet dosage form by using reversed phase high performance liquid chromatographic method"
+  },
+  {
+   "id": "https://openalex.org/W1973790038",
+   "doi": "https://doi.org/10.1364/ao.50.004728",
+   "year": 2011,
+   "title": "Polarization and spin angular momentum in periodically rocking superlattice"
+  },
+  {
+   "id": "https://openalex.org/W2079613351",
+   "doi": "https://doi.org/10.1002/adfm.201190036",
+   "year": 2011,
+   "title": "Bijel Capsules: Novel, Robust, and Versatile Bijels of Nitromethane, Ethanediol, and Colloidal Silica: Capsules, Sub‐Ten‐Micrometer Domains, and Mechanical Properties (Adv. Funct. Mater. 11/2011)"
+  },
+  {
+   "id": "https://openalex.org/W1986380658",
+   "doi": "https://doi.org/10.1063/1.4742859",
+   "year": 2012,
+   "title": "Resonant actuation of microcantilever by pulse wave of one-nth the resonant frequency"
+  },
+  {
+   "id": "https://openalex.org/W1977586674",
+   "doi": "https://doi.org/10.1088/1748-6041/7/3/035008",
+   "year": 2012,
+   "title": "Effects of the blended fibroin/aloe gel film on wound healing in streptozotocin-induced diabetic rats"
+  },
+  {
+   "id": "https://openalex.org/W2006350927",
+   "doi": "https://doi.org/10.3390/molecules17032939",
+   "year": 2012,
+   "title": "α-Mangostin Enhances Betulinic Acid Cytotoxicity and Inhibits Cisplatin Cytotoxicity on HCT 116 Colorectal Carcinoma Cells"
+  },
+  {
+   "id": "https://openalex.org/W2060442040",
+   "doi": "https://doi.org/10.1603/an11120",
+   "year": 2012,
+   "title": "Floral Host Plants of Adult Beetles in Central Illinois: An Historical Perspective"
+  },
+  {
+   "id": "https://openalex.org/W2146813087",
+   "doi": "https://doi.org/10.1117/1.jbo.17.6.061220",
+   "year": 2012,
+   "title": "In vivo photoacoustic imaging of mouse embryos"
+  },
+  {
+   "id": "https://openalex.org/W82331377",
+   "doi": "https://doi.org/10.1117/12.842047",
+   "year": 2010,
+   "title": "~1200-nm tunable fiber vertical-cavity surface emitting laser"
+  },
+  {
+   "id": "https://openalex.org/W2323729166",
+   "doi": "https://doi.org/10.1021/bi2002532",
+   "year": 2011,
+   "title": "Mutational Effects on Transglycosylating Activity of Family 18 Chitinases and Construction of a Hypertransglycosylating Mutant"
+  },
+  {
+   "id": "https://openalex.org/W2064700433",
+   "doi": "https://doi.org/10.1063/1.4729079",
+   "year": 2012,
+   "title": "Role of heteroepitaxial misfit strains on the band offsets of Zn1−xBexO/ZnO quantum wells: A first-principles analysis"
+  },
+  {
+   "id": "https://openalex.org/W1980343020",
+   "doi": "https://doi.org/10.1364/josab.29.002053",
+   "year": 2012,
+   "title": "Great optical buffering capacity for optical delay line and extraordinary optical reflection and mode conversion with extremely weak dielectric perturbations based on circular Bragg resonators"
+  },
+  {
+   "id": "https://openalex.org/W1741088206",
+   "doi": "https://doi.org/10.5451/unibas-005754042",
+   "year": 2011,
+   "title": "Gold-decorated ligands with photoactive properties"
+  },
+  {
+   "id": "https://openalex.org/W2052404668",
+   "doi": "https://doi.org/10.1039/c2ce26053k",
+   "year": 2012,
+   "title": "Fabrication of ZnS/SnO nanowire/nanosheet hierarchical nanoheterostructure and its photoluminescence properties"
+  },
+  {
+   "id": "https://openalex.org/W57193654",
+   "doi": "https://doi.org/10.12794/metadc115126",
+   "year": 2012,
+   "title": "Effects of Dissipation on Propagation of Surface Electromagnetic and Acoustic Waves"
+  },
+  {
+   "id": "https://openalex.org/W2008293140",
+   "doi": "https://doi.org/10.1002/mop.26646",
+   "year": 2012,
+   "title": "Design and development of triple band tunable microstrip antenna"
+  },
+  {
+   "id": "https://openalex.org/W2159279170",
+   "doi": "https://doi.org/10.4102/sajs.v106i9/10.310",
+   "year": 2010,
+   "title": "Palladium mixed-metal surface-modified AB5-type intermetallides enhance hydrogen sorption kinetics"
+  },
+  {
+   "id": "https://openalex.org/W1964176378",
+   "doi": "https://doi.org/10.1109/tnnls.2012.2218060",
+   "year": 2012,
+   "title": "Descent Algorithms on Oblique Manifold for Source-Adaptive ICA Contrast"
+  },
+  {
+   "id": "https://openalex.org/W2155544223",
+   "doi": "https://doi.org/10.1364/ol.37.002010",
+   "year": 2012,
+   "title": "Mechano-optical wavelength tuning in a photonic crystal microcavity with sub-1 V drive voltage"
+  },
+  {
+   "id": "https://openalex.org/W2121389336",
+   "doi": "https://doi.org/10.1142/s1088424611003628",
+   "year": 2011,
+   "title": "Synthesis and crystal structure of a novel phthalocyanine-calixarene conjugate"
+  },
+  {
+   "id": "https://openalex.org/W2077415911",
+   "doi": "https://doi.org/10.1002/mop.25477",
+   "year": 2010,
+   "title": "Broadband, high‐gain complementary‐symmetry microstrip array antenna"
+  },
+  {
+   "id": "https://openalex.org/W2085872166",
+   "doi": "https://doi.org/10.1364/ol.37.000999",
+   "year": 2012,
+   "title": "Generation of sub wavelength super-long dark channel using high NA lens axicon"
+  },
+  {
+   "id": "https://openalex.org/W2024614085",
+   "doi": "https://doi.org/10.4028/www.scientific.net/amr.430-432.189",
+   "year": 2012,
+   "title": "AirСar CAES-Compressed Air Energy Source-Compendium"
+  },
+  {
+   "id": "https://openalex.org/W2135873532",
+   "doi": "https://doi.org/10.1109/lpt.2011.2164787",
+   "year": 2011,
+   "title": "Photonic Crystal Fiber Strain-Independent Temperature Sensing Based on Modal Interferometer"
+  },
+  {
+   "id": "https://openalex.org/W7225952322",
+   "doi": null,
+   "year": 2012,
+   "title": "Infrared Absorption Measurements Using Metamaterials"
+  },
+  {
+   "id": "https://openalex.org/W1488132738",
+   "doi": "https://doi.org/10.15376/biores.5.4.2248-2257",
+   "year": 2010,
+   "title": "Preparation of microwave absorbing nickel-based activated carbon by electroless plating with palladium-free activation"
+  },
+  {
+   "id": "https://openalex.org/W2074802718",
+   "doi": "https://doi.org/10.1063/1.4729934",
+   "year": 2012,
+   "title": "Ferromagnetism and manipulation of topological surface states in Bi2Se3 family by 2p light elements"
+  },
+  {
+   "id": "https://openalex.org/W2037347486",
+   "doi": "https://doi.org/10.1080/00218464.2012.694278",
+   "year": 2012,
+   "title": "A Model for Removal of Compact, Rough, Irregularly Shaped Particles from Surfaces in Turbulent Flows"
+  },
+  {
+   "id": "https://openalex.org/W2015163405",
+   "doi": "https://doi.org/10.1088/0031-8949/84/04/045020",
+   "year": 2011,
+   "title": "Family relationship among power-law multi-term potentials in extra dimensions"
+  },
+  {
+   "id": "https://openalex.org/W1982757342",
+   "doi": "https://doi.org/10.1002/mabi.201100150",
+   "year": 2011,
+   "title": "Core/Shell Fe3O4@SiO2 Nanoparticles Modified with PAH as a Vector for EGFP Plasmid DNA Delivery into HeLa Cells"
+  },
+  {
+   "id": "https://openalex.org/W2335641425",
+   "doi": "https://doi.org/10.1021/jp111998p",
+   "year": 2011,
+   "title": "Locking Carbon Nanotubes in Confined Lattice Geometries − A Route to Low Percolation in Conducting Composites"
+  },
+  {
+   "id": "https://openalex.org/W1979427794",
+   "doi": "https://doi.org/10.1021/ci2001567",
+   "year": 2011,
+   "title": "Hydride Dissociation Energies of Six-Membered Heterocyclic Organic Hydrides Predicted by ONIOM-G4Method"
+  },
+  {
+   "id": "https://openalex.org/W2139704070",
+   "doi": "https://doi.org/10.1051/epjap/2011110399",
+   "year": 2012,
+   "title": "Resonator with orthogonally polarized dual wavelength output based on layered anisotropic metamaterials"
+  },
+  {
+   "id": "https://openalex.org/W2046073822",
+   "doi": "https://doi.org/10.1002/adma.201190124",
+   "year": 2011,
+   "title": "Bioinspired Materials: Controlled Fabrication and Water Collection Ability of Bioinspired Artificial Spider Silks (Adv. Mater. 32/2011)"
+  },
+  {
+   "id": "https://openalex.org/W2022948943",
+   "doi": "https://doi.org/10.1063/1.4731201",
+   "year": 2012,
+   "title": "Light controlled magnetoresistance and magnetic field controlled photoresistance in CoFe film deposited on BiFeO3"
+  },
+  {
+   "id": "https://openalex.org/W2082805532",
+   "doi": "https://doi.org/10.5539/cis.v5n1p2",
+   "year": 2011,
+   "title": "New “Graphiton” Model: a Computational Discrete Space, Self-Encoded as a Trivalent Graph"
+  },
+  {
+   "id": "https://openalex.org/W1998741696",
+   "doi": "https://doi.org/10.1109/lcomm.2012.120312.121184",
+   "year": 2012,
+   "title": "Benefits of Rich Scattering in MIMO Channels: A Graph-Theoretical Perspective"
+  },
+  {
+   "id": "https://openalex.org/W2273118619",
+   "doi": "https://doi.org/10.1088/1674-1056/20/10/103301",
+   "year": 2011,
+   "title": "Observation of intermolecular double-quantum coherence signal dips in nuclear magnetic resonance"
+  },
+  {
+   "id": "https://openalex.org/W2116988286",
+   "doi": "https://doi.org/10.2174/1573409911006040240",
+   "year": 2010,
+   "title": "Use of Mathematical Structural Invariants in Analyzing Combinatorial Libraries: A Case Study with Psoralen Derivatives"
+  },
+  {
+   "id": "https://openalex.org/W2080415654",
+   "doi": "https://doi.org/10.1088/1367-2630/13/5/053014",
+   "year": 2011,
+   "title": "Can intrinsic noise induce various resonant peaks?"
+  },
+  {
+   "id": "https://openalex.org/W2162002781",
+   "doi": "https://doi.org/10.3391/ai.2012.7.3.002",
+   "year": 2012,
+   "title": "Barcoding of the cytochrome oxidase I (COI) indicates a recent introduction of Ciona savignyi into New Zealand and provides a rapid method for Ciona species discrimination"
+  },
+  {
+   "id": "https://openalex.org/W2326434810",
+   "doi": "https://doi.org/10.1021/la300494g",
+   "year": 2012,
+   "title": "Stabilization of Miniemulsion Droplets by Cerium Oxide Nanoparticles: A Step toward the Elaboration of Armored Composite Latexes"
+  },
+  {
+   "id": "https://openalex.org/W2167757432",
+   "doi": "https://doi.org/10.7314/apjcp.2012.13.10.4855",
+   "year": 2012,
+   "title": "Snake Venom: A Potent Anticancer Agent"
+  },
+  {
+   "id": "https://openalex.org/W2094333968",
+   "doi": "https://doi.org/10.1016/j.arabjc.2012.03.011",
+   "year": 2012,
+   "title": "Nontoxic corrosion inhibitors for N80 steel in hydrochloric acid"
+  },
+  {
+   "id": "https://openalex.org/W2041674407",
+   "doi": "https://doi.org/10.1063/1.3600795",
+   "year": 2011,
+   "title": "Spatial filter based 3D resolution improvement and polarization properties of multiphoton multiple-excitation-spot-optical microscopy"
+  },
+  {
+   "id": "https://openalex.org/W2333825719",
+   "doi": "https://doi.org/10.3354/dao02334",
+   "year": 2011,
+   "title": "Detection and quantification of the crayfish plague agent in natural waters: direct monitoring approach for aquatic environments"
+  },
+  {
+   "id": "https://openalex.org/W1993625690",
+   "doi": "https://doi.org/10.1364/oe.20.020342",
+   "year": 2012,
+   "title": "Plasmonic mode converter for controlling optical impedance and nanoscale light-matter interaction"
+  },
+  {
+   "id": "https://openalex.org/W2794074279",
+   "doi": null,
+   "year": 2012,
+   "title": "Design, Microfabrication And Characterization Of A Microheater Platform For Studying DNA-surface Interactions"
+  },
+  {
+   "id": "https://openalex.org/W2134738997",
+   "doi": "https://doi.org/10.1117/12.907859",
+   "year": 2012,
+   "title": "Novel biosensor for detecting hemoglobin and its oxidation state based on nonreciprocity in a coupled waveguide system"
+  },
+  {
+   "id": "https://openalex.org/W1993805029",
+   "doi": "https://doi.org/10.1364/ol.36.001743",
+   "year": 2011,
+   "title": "Efficient and wideband horn nanoantenna"
+  },
+  {
+   "id": "https://openalex.org/W2153153084",
+   "doi": "https://doi.org/10.1002/cctc.201000092",
+   "year": 2010,
+   "title": "Development of a New Generation of Gold Catalysts for Amine Oxidation"
+  },
+  {
+   "id": "https://openalex.org/W2335665705",
+   "doi": "https://doi.org/10.1021/jp303793u",
+   "year": 2012,
+   "title": "Microbubble Formation from Plasma Polymers"
+  },
+  {
+   "id": "https://openalex.org/W2319012985",
+   "doi": "https://doi.org/10.1021/jp210165t",
+   "year": 2011,
+   "title": "Responsive Behaviors of Diblock Polyampholyte Brushes within Self-Consistent Field Theory"
+  },
+  {
+   "id": "https://openalex.org/W2059581162",
+   "doi": "https://doi.org/10.1021/jf904500e",
+   "year": 2010,
+   "title": "Detection and Quantification of Some Plant Growth Regulators in a Seaweed-Based Foliar Spray Employing a Mass Spectrometric Technique sans Chromatographic Separation"
+  },
+  {
+   "id": "https://openalex.org/W2159712659",
+   "doi": "https://doi.org/10.1039/c2ce25741f",
+   "year": 2012,
+   "title": "Morphology-controlled synthesis of anisotropic wurtzite MnSe nanocrystals: optical and magnetic properties"
+  },
+  {
+   "id": "https://openalex.org/W1983736674",
+   "doi": "https://doi.org/10.1201/b22475",
+   "year": 2011,
+   "title": "Optics of Nanomaterials"
+  },
+  {
+   "id": "https://openalex.org/W2376922382",
+   "doi": null,
+   "year": 2010,
+   "title": "The Chemo-Protective Effect of Turmeric, Chili, Cloves and Cardamom on Correcting Iron Overload-Induced Liver Injury, Oxidative Stress and Serum Lipid Profile in Rat Models."
+  },
+  {
+   "id": "https://openalex.org/W2174150134",
+   "doi": null,
+   "year": 2012,
+   "title": "CAREER: A New Class of Modified Mesoporous Silica Membranes with Controlled Pore Size and Surface Functionalization Through Unique Synthetic Approaches"
+  },
+  {
+   "id": "https://openalex.org/W112647379",
+   "doi": null,
+   "year": 2011,
+   "title": "Лексико-семантическое поле «Пожилой человек» в русской языковой картине мира"
+  },
+  {
+   "id": "https://openalex.org/W1646596119",
+   "doi": "https://doi.org/10.46298/dmtcs.2789",
+   "year": 2010,
+   "title": "Occupancy distributions in Markov chains via Doeblin's ergodicity coefficient"
+  },
+  {
+   "id": "https://openalex.org/W2132913138",
+   "doi": "https://doi.org/10.1002/chem.201100680",
+   "year": 2011,
+   "title": "Luminescent, Colloidal, F‐Substituted, Hydroxyapatite Nanocrystals"
+  },
+  {
+   "id": "https://openalex.org/W2317448894",
+   "doi": "https://doi.org/10.2352/j.imagingsci.technol.2012.56.4.040502",
+   "year": 2012,
+   "title": "Dielectric Patterning Using Aerosol Jet Printing"
+  },
+  {
+   "id": "https://openalex.org/W2060542332",
+   "doi": "https://doi.org/10.1002/mawe.201200824",
+   "year": 2012,
+   "title": "Development of corrosion protective polymeric coatings from a non‐edible seed oil"
+  },
+  {
+   "id": "https://openalex.org/W1964092902",
+   "doi": "https://doi.org/10.1109/ted.2012.2202319",
+   "year": 2012,
+   "title": "Resistive Switching by Voltage-Driven Ion Migration in Bipolar RRAM—Part I: Experimental Study"
+  },
+  {
+   "id": "https://openalex.org/W2140823572",
+   "doi": "https://doi.org/10.1002/anie.201201475",
+   "year": 2012,
+   "title": "Benzoylphosphonate‐Based Photoactive Phosphopeptide Mimetics for Modulation of Protein Tyrosine Phosphatases and Highly Specific Labeling of SH2 Domains"
+  },
+  {
+   "id": "https://openalex.org/W2130447687",
+   "doi": "https://doi.org/10.1111/j.1365-246x.2010.04658.x",
+   "year": 2010,
+   "title": "Approaches to automated data selection for global seismic tomography"
+  },
+  {
+   "id": "https://openalex.org/W1501755281",
+   "doi": "https://doi.org/10.1080/21501203.2012.690094",
+   "year": 2012,
+   "title": "A novel PCR–DNA probe for the detection of fumonisin-producing Fusarium species from major food crops grown in southern India"
+  },
+  {
+   "id": "https://openalex.org/W2032501038",
+   "doi": "https://doi.org/10.4271/2012-01-2181",
+   "year": 2012,
+   "title": "Lead-Unity-Lag Electric Power Generation System"
+  },
+  {
+   "id": "https://openalex.org/W2183729173",
+   "doi": null,
+   "year": 2010,
+   "title": "DIGITAL NUCLEIC ACID AMPLIFICATION ON A SLIPCHIP"
+  },
+  {
+   "id": "https://openalex.org/W2116349152",
+   "doi": "https://doi.org/10.1364/ol.35.003426",
+   "year": 2010,
+   "title": "Dual plane in-line digital holographic microscopy"
+  },
+  {
+   "id": "https://openalex.org/W1967040738",
+   "doi": "https://doi.org/10.1117/12.915283",
+   "year": 2012,
+   "title": "Design and fabrication of mechanical-resonance-based optical scanner using push-pull actuator"
+  },
+  {
+   "id": "https://openalex.org/W2062878459",
+   "doi": "https://doi.org/10.1063/1.3280859",
+   "year": 2010,
+   "title": "Assembly of gold nanoparticles of different diameters between nanogap electrodes"
+  },
+  {
+   "id": "https://openalex.org/W1973183072",
+   "doi": "https://doi.org/10.1039/c1jm11870f",
+   "year": 2011,
+   "title": "Diarylethene-based photochromic polyurethanes for multistate optical memories"
+  },
+  {
+   "id": "https://openalex.org/W2330585872",
+   "doi": "https://doi.org/10.1021/jp206212c",
+   "year": 2011,
+   "title": "Carbon Nanotube Superarchitectures: An Ab Initio Study"
+  },
+  {
+   "id": "https://openalex.org/W2117819377",
+   "doi": "https://doi.org/10.1109/jlt.2012.2190583",
+   "year": 2012,
+   "title": "Polarization-Independent, Multifunctional All-Fiber Comb Filter Using Variable Ratio Coupler-Based Mach–Zehnder Interferometer"
+  },
+  {
+   "id": "https://openalex.org/W2186025371",
+   "doi": null,
+   "year": 2011,
+   "title": "Design and development of complementary-symmetry microstrip antenna for broadband and high gain operation"
+  },
+  {
+   "id": "https://openalex.org/W2182779860",
+   "doi": "https://doi.org/10.5185/amlett.2011.3075am2011",
+   "year": 2011,
+   "title": "Photoluminescence studies of trichloro-DPQ organic phosphor"
+  },
+  {
+   "id": "https://openalex.org/W2154634481",
+   "doi": "https://doi.org/10.3762/bjoc.6.34",
+   "year": 2010,
+   "title": "Symmetrical and unsymmetrical α,ω-nucleobase amide-conjugated systems"
+  },
+  {
+   "id": "https://openalex.org/W2096041276",
+   "doi": "https://doi.org/10.1111/j.1551-2916.2011.04970.x",
+   "year": 2011,
+   "title": "Glass‐Ceramics with Embedded Gallium/Aluminum Nanoalloys Formed by Heat Treatment and Femtosecond Laser Irradiation"
+  },
+  {
+   "id": "https://openalex.org/W2739927333",
+   "doi": null,
+   "year": 2011,
+   "title": "A Study of Some Incomplete Elliptic Integrals and Associated Definite Integrals Involving Single and Multivariable Polynomials and Functions"
+  },
+  {
+   "id": "https://openalex.org/W1994147004",
+   "doi": "https://doi.org/10.1103/physrevb.86.205128",
+   "year": 2012,
+   "title": "Resonance linewidth and inhomogeneous broadening in a metamaterial array"
+  },
+  {
+   "id": "https://openalex.org/W1979930819",
+   "doi": "https://doi.org/10.1063/1.4732313",
+   "year": 2012,
+   "title": "Highly selective adsorption of methanol in carbon nanotubes immersed in methanol-water solution"
+  },
+  {
+   "id": "https://openalex.org/W2318373530",
+   "doi": "https://doi.org/10.1021/nl203529h",
+   "year": 2011,
+   "title": "On-Nanowire Spatial Band Gap Design for White Light Emission"
+  },
+  {
+   "id": "https://openalex.org/W247290783",
+   "doi": null,
+   "year": 2010,
+   "title": "Eco-friendly inhibitor L-valine-Zn2+ system controlling corrosion of carbon steel in rain water"
+  },
+  {
+   "id": "https://openalex.org/W1992767312",
+   "doi": "https://doi.org/10.3390/s110100876",
+   "year": 2011,
+   "title": "Hall Sensors for Extreme Temperatures"
+  },
+  {
+   "id": "https://openalex.org/W2170634573",
+   "doi": null,
+   "year": 2012,
+   "title": "Информативность рентгенологических методов визуализации кистозных образований в проекции верхнечелюстного синуса"
+  },
+  {
+   "id": "https://openalex.org/W1957009965",
+   "doi": "https://doi.org/10.5162/imcs2012/8.4.2",
+   "year": 2012,
+   "title": "8.4.2 Gas Sensing Properties of Novel CuO Nanowire Devices"
+  },
+  {
+   "id": "https://openalex.org/W2259825450",
+   "doi": null,
+   "year": 2012,
+   "title": "Method Development and Validation for Estimation of Related Compounds Present in Lansoprazole Bulk Drug by Ultra High Pressure Liquid Chromatography"
+  },
+  {
+   "id": "https://openalex.org/W2124415901",
+   "doi": "https://doi.org/10.1109/jssc.2010.2060258",
+   "year": 2010,
+   "title": "A Low Phase-Noise Multi-Phase LO Generator for Wideband Demodulators Based on Reconfigurable Sub-Harmonic Mixers"
+  },
+  {
+   "id": "https://openalex.org/W1968534410",
+   "doi": "https://doi.org/10.4028/www.scientific.net/amr.194-196.2249",
+   "year": 2011,
+   "title": "Study of Mg(Zr0.05Ti0.95)O3 Dielectric Thin Films by Sol-Gel Method"
+  },
+  {
+   "id": "https://openalex.org/W2104509434",
+   "doi": "https://doi.org/10.1002/cmmi.424",
+   "year": 2011,
+   "title": "Use of perfluorocarbon nanoparticles for non‐invasive multimodal cell tracking of human pancreatic islets"
+  },
+  {
+   "id": "https://openalex.org/W2151034362",
+   "doi": "https://doi.org/10.5897/ajb11.1328",
+   "year": 2011,
+   "title": "Antimicrobial activities of the bacteriocin-like substances produced by lactic acid bacteria isolated from Moroccan dromedary milk"
+  },
+  {
+   "id": "https://openalex.org/W2019426129",
+   "doi": "https://doi.org/10.1088/2040-8978/13/2/024009",
+   "year": 2010,
+   "title": "Manipulating sources using transformation optics with ‘folded geometry’"
+  },
+  {
+   "id": "https://openalex.org/W99129955",
+   "doi": null,
+   "year": 2012,
+   "title": "Nanopillar based electrochemical biosensor for monitoring microfluidic based cell culture"
+  },
+  {
+   "id": "https://openalex.org/W2326173673",
+   "doi": "https://doi.org/10.1021/jp1089678",
+   "year": 2010,
+   "title": "Influence of Sequence on the Self-Assembly of Peptide Nanoribbons on Silicon Substrates"
+  },
+  {
+   "id": "https://openalex.org/W2244498774",
+   "doi": null,
+   "year": 2010,
+   "title": "Simulation, Design and Development of Complementary-Symmetry Microstrip Antenna for Compactness, Enhanced Gain, Bandwidth and Low Cross-Polarization"
+  },
+  {
+   "id": "https://openalex.org/W2038744603",
+   "doi": "https://doi.org/10.1109/isemc.2012.6351813",
+   "year": 2012,
+   "title": "Simulation geometry rasterization for applications toward graphene interconnect characterization"
+  },
+  {
+   "id": "https://openalex.org/W4237293735",
+   "doi": "https://doi.org/10.1002/smll.v6:6",
+   "year": 2010,
+   "title": null
+  },
+  {
+   "id": "https://openalex.org/W7135791469",
+   "doi": null,
+   "year": 2010,
+   "title": "Synthesis of modular components for molecular electronics"
+  },
+  {
+   "id": "https://openalex.org/W2001999718",
+   "doi": "https://doi.org/10.2174/157340911795677648",
+   "year": 2011,
+   "title": "Quantitative Structure-Activity Relationships for Anticancer Activity of 2- Phenylindoles Using Mathematical Molecular Descriptors"
+  },
+  {
+   "id": "https://openalex.org/W2288618967",
+   "doi": null,
+   "year": 2011,
+   "title": "The Electronic structures of organic molecules on metal surface and size-selected clusters on oxide surface"
+  },
+  {
+   "id": "https://openalex.org/W2162912969",
+   "doi": "https://doi.org/10.3390/md8010024",
+   "year": 2010,
+   "title": "Chitin Deacetylases: Properties and Applications"
+  },
+  {
+   "id": "https://openalex.org/W2146780772",
+   "doi": "https://doi.org/10.1074/jbc.m110.179465",
+   "year": 2011,
+   "title": "Modulation of Substrate Specificities of d-Sialic Acid Aldolase through Single Mutations of Val-251"
+  },
+  {
+   "id": "https://openalex.org/W2054607378",
+   "doi": "https://doi.org/10.1007/s11434-010-4147-7",
+   "year": 2010,
+   "title": "Fabrication and field emission performance of arrays of vacuum microdiodes containing CuO nanowire emitters grown directly on glass without a catalyst"
+  },
+  {
+   "id": "https://openalex.org/W2067009387",
+   "doi": "https://doi.org/10.1364/oe.19.001905",
+   "year": 2011,
+   "title": "Generation of radially and azimuthally polarized beams in Yb:YAG laser with intra-cavity lens and birefringent crystal"
+  },
+  {
+   "id": "https://openalex.org/W2124922596",
+   "doi": "https://doi.org/10.1109/aps.2011.5996854",
+   "year": 2011,
+   "title": "Variation of characteristics of a microwave photonic band gap structure versus the dielectric constant in inhomogenoeus parallel plate waveguide"
+  },
+  {
+   "id": "https://openalex.org/W1974389915",
+   "doi": "https://doi.org/10.3989/gya.089910",
+   "year": 2011,
+   "title": "Nutritional and functional characteristics of gingerbread plum (Neocarya macrophylla): an underutilized oilseed"
+  },
+  {
+   "id": "https://openalex.org/W2069918841",
+   "doi": "https://doi.org/10.1117/12.903201",
+   "year": 2011,
+   "title": "Electrochemically switchable surfaces using polymer brush-grafted conducting polymer films"
+  },
+  {
+   "id": "https://openalex.org/W2091761987",
+   "doi": "https://doi.org/10.1088/1751-8113/46/3/035301",
+   "year": 2012,
+   "title": "Heun functions and quasi-exactly solvable double-well potentials"
+  },
+  {
+   "id": "https://openalex.org/W2598572613",
+   "doi": null,
+   "year": 2010,
+   "title": "Nanostructures in the quantum Hall regime"
+  },
+  {
+   "id": "https://openalex.org/W1979342040",
+   "doi": "https://doi.org/10.1071/ch10076",
+   "year": 2010,
+   "title": "The Excited Triplet State Properties of Titanyl Phthalocyanine and its Sulfonated Derivatives"
+  },
+  {
+   "id": "https://openalex.org/W2060561264",
+   "doi": "https://doi.org/10.1021/cm9034165",
+   "year": 2010,
+   "title": "Exploitable Flexible Honeycomb Structured Porous Films from Sol−Gel Cross-Linkable Silicone Based Random Branched Copolymers"
+  },
+  {
+   "id": "https://openalex.org/W2066949512",
+   "doi": "https://doi.org/10.1038/am.2012.50",
+   "year": 2012,
+   "title": "Configurable 2D and 3D spheroid tissue cultures on bioengineered surfaces with acquisition of epithelial–mesenchymal transition characteristics"
+  },
+  {
+   "id": "https://openalex.org/W2079563673",
+   "doi": "https://doi.org/10.1088/1748-0221/6/05/p05008",
+   "year": 2011,
+   "title": "Subnanosecond X-ray apparatus with flexible cable radiator probe based on small-size explosive emission vacuum diode"
+  },
+  {
+   "id": "https://openalex.org/W2506479952",
+   "doi": "https://doi.org/10.5555/1852321.1852325",
+   "year": 2010,
+   "title": "A survey on MPEG-4 standard and digital television deployment"
+  },
+  {
+   "id": "https://openalex.org/W2143887254",
+   "doi": "https://doi.org/10.1088/1468-6996/13/2/025002",
+   "year": 2012,
+   "title": "Patterning titania with the conventional and modified micromolding in capillaries technique from sol–gel and dispersion solutions"
+  },
+  {
+   "id": "https://openalex.org/W1981236397",
+   "doi": "https://doi.org/10.1063/1.3428787",
+   "year": 2010,
+   "title": "Electromagnetic control of coupled droplets"
+  },
+  {
+   "id": "https://openalex.org/W2328732078",
+   "doi": "https://doi.org/10.1021/ac102094r",
+   "year": 2010,
+   "title": "Fabrication of Microwell Arrays Based on Two-Dimensional Ordered Polystyrene Microspheres for High-Throughput Single-Cell Analysis"
+  },
+  {
+   "id": "https://openalex.org/W2033664520",
+   "doi": "https://doi.org/10.4028/www.scientific.net/kem.512-515.1074",
+   "year": 2012,
+   "title": "Silica Coatings Pigmented with Core-Shell Particles for High-Temperature Radiation Heat Shields"
+  },
+  {
+   "id": "https://openalex.org/W2057370821",
+   "doi": "https://doi.org/10.1073/pnas.1109773109",
+   "year": 2011,
+   "title": "Imaging dynamic insulin release using a fluorescent zinc indicator for monitoring induced exocytotic release (ZIMIR)"
+  },
+  {
+   "id": "https://openalex.org/W2341358459",
+   "doi": null,
+   "year": 2011,
+   "title": "Functional clothing— Definition and classification"
+  },
+  {
+   "id": "https://openalex.org/W2025229862",
+   "doi": "https://doi.org/10.1364/oe.19.017075",
+   "year": 2011,
+   "title": "Design of a monopole-antenna-based resonant nanocavity for detection of optical power from hybrid plasmonic waveguides"
+  },
+  {
+   "id": "https://openalex.org/W2057455983",
+   "doi": "https://doi.org/10.4028/www.scientific.net/amr.123-125.755",
+   "year": 2010,
+   "title": "Preparation of SiC/SiO2 Core-Shell Coaxial Nanostructure"
+  },
+  {
+   "id": "https://openalex.org/W1883574494",
+   "doi": "https://doi.org/10.14288/1.0097126",
+   "year": 2010,
+   "title": "Optimal weighted partial decision combining for fading channel diversity"
+  },
+  {
+   "id": "https://openalex.org/W2135244900",
+   "doi": "https://doi.org/10.1002/bit.24525",
+   "year": 2012,
+   "title": "Photosynthetic efficiency of Chlamydomonas reinhardtii in attenuated, flashing light"
+  },
+  {
+   "id": "https://openalex.org/W2049777205",
+   "doi": "https://doi.org/10.1137/120861618",
+   "year": 2012,
+   "title": "Adapting Predictive Feedback Chaos Control for Optimal Convergence Speed"
+  },
+  {
+   "id": "https://openalex.org/W2027927572",
+   "doi": "https://doi.org/10.1088/1748-6041/5/3/035002",
+   "year": 2010,
+   "title": "Cyto- and genotoxicological assessment and functional characterization of N -vinyl-2-pyrrolidone–acrylic acid-based copolymeric hydrogels with potential for future use in wound healing applications"
+  },
+  {
+   "id": "https://openalex.org/W2087338769",
+   "doi": "https://doi.org/10.1063/1.4709985",
+   "year": 2012,
+   "title": "Strain tunable band-gaps of two-dimensional hexagonal BN and AlN: An FP-(L)APW+lo study"
+  },
+  {
+   "id": "https://openalex.org/W1997968262",
+   "doi": "https://doi.org/10.1115/1.4005551",
+   "year": 2012,
+   "title": "Viscosity Measurement by the Free Vibrations of Homogeneous Viscoelastic Sphere"
+  },
+  {
+   "id": "https://openalex.org/W2132457675",
+   "doi": "https://doi.org/10.1109/sopo.2011.5780667",
+   "year": 2011,
+   "title": "Anti-Reflection for Self-Collimated Beams Using Graded Index Coupler"
+  },
+  {
+   "id": "https://openalex.org/W2124138456",
+   "doi": "https://doi.org/10.1093/nar/gkq354",
+   "year": 2010,
+   "title": "Designing small multiple-target artificial RNAs"
+  },
+  {
+   "id": "https://openalex.org/W1505677360",
+   "doi": null,
+   "year": 2010,
+   "title": "Two-Sided Competition and Differentiation (with an Application to Media)"
+  },
+  {
+   "id": "https://openalex.org/W1868019683",
+   "doi": "https://doi.org/10.1111/j.1365-2621.2011.02908.x",
+   "year": 2012,
+   "title": "Effect of different thermal treatments and freezing on the antioxidant constituents and activity of two Bahraini date cultivars (Phoenix dactylifera L.)"
+  },
+  {
+   "id": "https://openalex.org/W2094736406",
+   "doi": "https://doi.org/10.1039/c2sm26429c",
+   "year": 2012,
+   "title": "A vibration-charge-induced unidirectional transport of water molecules in confined nanochannels"
+  },
+  {
+   "id": "https://openalex.org/W2066529824",
+   "doi": "https://doi.org/10.1002/aoc.1672",
+   "year": 2010,
+   "title": "Deposition of crystalline copper films from tetranuclear copper (II) complexes without application of reducing atmosphere"
+  },
+  {
+   "id": "https://openalex.org/W2100560891",
+   "doi": "https://doi.org/10.1073/pnas.1108702108",
+   "year": 2011,
+   "title": "Magneto-optical contrast in liquid-state optically detected NMR spectroscopy"
+  },
+  {
+   "id": "https://openalex.org/W2095076853",
+   "doi": "https://doi.org/10.1117/12.864036",
+   "year": 2010,
+   "title": "Closed form formulas and tunability of resonances in pairs of gold-dielectric nanoshells"
+  },
+  {
+   "id": "https://openalex.org/W2788643688",
+   "doi": null,
+   "year": 2012,
+   "title": "Lemanea in Lotic Environment of Manipur, North-East India"
+  },
+  {
+   "id": "https://openalex.org/W2319805012",
+   "doi": "https://doi.org/10.1166/jno.2010.1127",
+   "year": 2010,
+   "title": "Ultra Compact All Optical Logic Gates Using Photonic Band-Gap Materials"
+  },
+  {
+   "id": "https://openalex.org/W1985495846",
+   "doi": "https://doi.org/10.1109/icwits.2010.5611973",
+   "year": 2010,
+   "title": "Polarization reconfigurable patch array antenna"
+  },
+  {
+   "id": "https://openalex.org/W2330789803",
+   "doi": "https://doi.org/10.1061/47628(407)20",
+   "year": 2011,
+   "title": "Numerical Simulations of Granular Materials Using Smoothed Particle Hydrodynamics Method"
+  },
+  {
+   "id": "https://openalex.org/W2186983744",
+   "doi": null,
+   "year": 2012,
+   "title": "Optimization of Process Parameters for Chitinase Production by a Marine Isolate of Serratia marcescens"
+  },
+  {
+   "id": "https://openalex.org/W2054354917",
+   "doi": "https://doi.org/10.1364/ol.36.002339",
+   "year": 2011,
+   "title": "Subwavelength localization of near fields in coupled metallic spheres for single-emitter polarization analysis"
+  },
+  {
+   "id": "https://openalex.org/W1976414581",
+   "doi": "https://doi.org/10.1088/0960-1317/21/8/085004",
+   "year": 2011,
+   "title": "Realization of cylindrical submicron shell arrays by diffraction-introduced photolithography"
+  },
+  {
+   "id": "https://openalex.org/W2094613488",
+   "doi": "https://doi.org/10.1063/1.3661170",
+   "year": 2011,
+   "title": "Single walled carbon nano-tube, ferroelectric liquid crystal composites: Excellent diffractive tool"
+  },
+  {
+   "id": "https://openalex.org/W2059493381",
+   "doi": "https://doi.org/10.1007/jhep10(2010)021",
+   "year": 2010,
+   "title": "Precision spectroscopy and higher spin symmetry in the ABJM model"
+  },
+  {
+   "id": "https://openalex.org/W2028402520",
+   "doi": "https://doi.org/10.1103/physreva.82.032117",
+   "year": 2010,
+   "title": "Analytical results for a monochromatically driven two-level system"
+  },
+  {
+   "id": "https://openalex.org/W2086957633",
+   "doi": "https://doi.org/10.1109/aps.2012.6348595",
+   "year": 2012,
+   "title": "Self-filtering low-noise horn antenna"
+  },
+  {
+   "id": "https://openalex.org/W2037903173",
+   "doi": "https://doi.org/10.1134/s1054660x12040263",
+   "year": 2012,
+   "title": "All-fiber widely wavelength-tunable thulium-doped fiber ring laser incorporating a Fabry-Perot filter"
+  },
+  {
+   "id": "https://openalex.org/W2091124340",
+   "doi": "https://doi.org/10.1117/12.975130",
+   "year": 2012,
+   "title": "Overcoupled bending insensitive holey optical fiber coupler"
+  },
+  {
+   "id": "https://openalex.org/W2045481381",
+   "doi": "https://doi.org/10.1134/s1022795411100176",
+   "year": 2011,
+   "title": "An improved polymerase chain reaction method for genetic testing of spinocerebellar ataxia type 3"
+  },
+  {
+   "id": "https://openalex.org/W2144942694",
+   "doi": "https://doi.org/10.5714/cl.2011.12.2.095",
+   "year": 2011,
+   "title": "Effects of heat-treatment temperature on carbon-based composites with added illite"
+  },
+  {
+   "id": "https://openalex.org/W179116549",
+   "doi": null,
+   "year": 2010,
+   "title": "Air-Gap Rectangular Microstrip Antenna for Wide Impedance Bandwidth, High Gain and Effective Reduction of Size"
+  },
+  {
+   "id": "https://openalex.org/W1996008501",
+   "doi": "https://doi.org/10.1109/icedsa.2010.5503023",
+   "year": 2010,
+   "title": "Photoluminescence of Zinc Oxide nanofibers synthesis by novel gas blocker in thermal CVD method"
+  },
+  {
+   "id": "https://openalex.org/W840799637",
+   "doi": null,
+   "year": 2011,
+   "title": "Functional MRI entropy measurements of brain complexity"
+  },
+  {
+   "id": "https://openalex.org/W2059482256",
+   "doi": "https://doi.org/10.1021/bm100488x",
+   "year": 2010,
+   "title": "Development of Silver−Zein Composites as a Promising Antimicrobial Agent"
+  },
+  {
+   "id": "https://openalex.org/W2318696264",
+   "doi": "https://doi.org/10.1021/jp202063m",
+   "year": 2011,
+   "title": "Photo Retro-Diels–Alder Reactions"
+  },
+  {
+   "id": "https://openalex.org/W2099699778",
+   "doi": "https://doi.org/10.1002/jbm.a.32832",
+   "year": 2010,
+   "title": "Tuning cell adhesion on titanium with osteogenic rosette nanotubes"
+  },
+  {
+   "id": "https://openalex.org/W2056171605",
+   "doi": "https://doi.org/10.1088/0022-3727/43/3/035406",
+   "year": 2010,
+   "title": "Photocatalytic, optical and electrical properties of copper-doped zinc sulfide thin films"
+  },
+  {
+   "id": "https://openalex.org/W1993597446",
+   "doi": "https://doi.org/10.1007/s13213-010-0167-4",
+   "year": 2010,
+   "title": "Expression in Escherichia coli of a gene encoding type II l-asparaginase from Bacillus subtilis, and characterization of its unique properties"
+  },
+  {
+   "id": "https://openalex.org/W7132188215",
+   "doi": null,
+   "year": 2010,
+   "title": "Enhanced emission of Pr.sup.3+./sup. -doped LuAG thin film scintillator by co-doping of Sc.sup.3+./sup.."
+  },
+  {
+   "id": "https://openalex.org/W2332118614",
+   "doi": "https://doi.org/10.1021/jp300107d",
+   "year": 2012,
+   "title": "Isoelectronic Doping of Graphdiyne with Boron and Nitrogen: Stable Configurations and Band Gap Modification"
+  },
+  {
+   "id": "https://openalex.org/W2116663224",
+   "doi": "https://doi.org/10.1517/17530059.2012.687372",
+   "year": 2012,
+   "title": "Hyperpolarized13C-pyruvate magnetic resonance imaging in cancer diagnostics"
+  },
+  {
+   "id": "https://openalex.org/W1996302233",
+   "doi": "https://doi.org/10.2174/157341310790226252",
+   "year": 2010,
+   "title": "Acidic Hydrothermal Conversion of Degussa P25 into Rutile Nanocrystals and Particle Morphology Control"
+  },
+  {
+   "id": "https://openalex.org/W2006947396",
+   "doi": "https://doi.org/10.1109/jsyst.2012.2192059",
+   "year": 2012,
+   "title": "A Bilevel Approach for the Optimal Control of Flows Through a Network"
+  },
+  {
+   "id": "https://openalex.org/W2121495972",
+   "doi": "https://doi.org/10.1098/rspa.2011.0732",
+   "year": 2012,
+   "title": "Effects of the constraint's curvature on structural instability: tensile buckling and multiple bifurcations"
+  },
+  {
+   "id": "https://openalex.org/W1998128732",
+   "doi": "https://doi.org/10.1063/1.3664637",
+   "year": 2011,
+   "title": "Entanglement generation and quantum state transfer between two quantum dot molecules mediated by quantum bus of plasmonic circuits"
+  },
+  {
+   "id": "https://openalex.org/W2332206060",
+   "doi": "https://doi.org/10.1021/la204288g",
+   "year": 2012,
+   "title": "Patterning Nanoparticles in a Three-Dimensional Matrix Using an Electric-Field-Assisted Gel Transferring Technique"
+  },
+  {
+   "id": "https://openalex.org/W1969500857",
+   "doi": "https://doi.org/10.4236/ajps.2011.22025",
+   "year": 2011,
+   "title": "Direct OrgaNogenesis from Cotyledons in Cultivars of Citrus clementina Hort. Ex Tan"
+  },
+  {
+   "id": "https://openalex.org/W7221212588",
+   "doi": null,
+   "year": 2011,
+   "title": "Purification and Some Kinetic Parameters of Endo-1,4-β-glucanase From Digestive Tracts of Giant African Land Snail (Achatina achatina)"
+  },
+  {
+   "id": "https://openalex.org/W2063294045",
+   "doi": "https://doi.org/10.1142/s021797921105895x",
+   "year": 2011,
+   "title": "EFFECT OF NONLINEAR INTERACTIONS ON PHONON POLARITON MODES IN OPTOELECTRONIC CRYSTALS"
+  },
+  {
+   "id": "https://openalex.org/W2076031105",
+   "doi": "https://doi.org/10.1109/glocomw.2011.6162362",
+   "year": 2011,
+   "title": "Defending mechanisms against false-data injection attacks in the power system state estimation"
+  },
+  {
+   "id": "https://openalex.org/W2029328538",
+   "doi": "https://doi.org/10.1049/el.2010.3275",
+   "year": 2010,
+   "title": "Reduction of mutual coupling between closely spaced PIFAs"
+  },
+  {
+   "id": "https://openalex.org/W2078899426",
+   "doi": "https://doi.org/10.1063/1.4748758",
+   "year": 2012,
+   "title": "Generation of high-resolution kagome lattice structures using extreme ultraviolet interference lithography"
+  },
+  {
+   "id": "https://openalex.org/W2072214574",
+   "doi": "https://doi.org/10.1364/oe.19.011746",
+   "year": 2011,
+   "title": "Low-loss hybrid plasmonic waveguide for compact and high-efficient photonic integration"
+  },
+  {
+   "id": "https://openalex.org/W2090820233",
+   "doi": "https://doi.org/10.1103/physreva.83.063812",
+   "year": 2011,
+   "title": "Simultaneous control of two four-wave-mixing fields via atomic spin coherence"
+  },
+  {
+   "id": "https://openalex.org/W1564290990",
+   "doi": "https://doi.org/10.31274/etd-180810-1033",
+   "year": 2011,
+   "title": "Biorenewable polymeric materials from vegetable oils"
+  },
+  {
+   "id": "https://openalex.org/W2778286667",
+   "doi": "https://doi.org/10.14356/hptf.08112",
+   "year": 2010,
+   "title": "Flow reactor syntheses of functional hybrid nanoparticles"
+  },
+  {
+   "id": "https://openalex.org/W2025744612",
+   "doi": "https://doi.org/10.1243/09544062jmes1873",
+   "year": 2010,
+   "title": "Laser surface micro-engineering for industrial applications in Singapore"
+  },
+  {
+   "id": "https://openalex.org/W1971734991",
+   "doi": "https://doi.org/10.1007/s13361-011-0081-4",
+   "year": 2011,
+   "title": "Simultaneous Quantitation of Amino Acid Mixtures using Clustering Agents"
+  },
+  {
+   "id": "https://openalex.org/W4240918795",
+   "doi": "https://doi.org/10.1145/2168996",
+   "year": 2012,
+   "title": null
+  },
+  {
+   "id": "https://openalex.org/W2063247114",
+   "doi": "https://doi.org/10.1117/12.884844",
+   "year": 2011,
+   "title": "Highly sensitive refractive index sensor based on two cascaded long period gratings with rotary refractive index modulation"
+  },
+  {
+   "id": "https://openalex.org/W1981772132",
+   "doi": "https://doi.org/10.4028/www.scientific.net/amr.295-297.189",
+   "year": 2011,
+   "title": "Study on Fast-Releasing Calcium Phosphate Cement for Accelerating the Release of Antibiotic"
+  },
+  {
+   "id": "https://openalex.org/W1998517333",
+   "doi": "https://doi.org/10.1021/bm3012715",
+   "year": 2012,
+   "title": "Phenylboronic Acid-Based Complex Micelles with Enhanced Glucose-Responsiveness at Physiological pH by Complexation with Glycopolymer"
+  },
+  {
+   "id": "https://openalex.org/W1977728079",
+   "doi": "https://doi.org/10.1158/1538-7445.am2012-807",
+   "year": 2012,
+   "title": "Abstract 807: 5-AZA/TSA reverses tamoxifen induced changes in chromatin remodeling enzymes in MCF-7/TAM-R cells"
+  },
+  {
+   "id": "https://openalex.org/W2036861840",
+   "doi": "https://doi.org/10.1109/rfid-ta.2012.6404519",
+   "year": 2012,
+   "title": "Low-power UWB transmitter for RFID transponder applications"
+  },
+  {
+   "id": "https://openalex.org/W2095335467",
+   "doi": "https://doi.org/10.1021/ja1084942",
+   "year": 2010,
+   "title": "Single Molecule Detection of Nitric Oxide Enabled by d(AT)15DNA Adsorbed to Near Infrared Fluorescent Single-Walled Carbon Nanotubes"
+  },
+  {
+   "id": "https://openalex.org/W2111478906",
+   "doi": "https://doi.org/10.1109/aps.2010.5562099",
+   "year": 2010,
+   "title": "Cavity-backed folded-slot antenna"
+  },
+  {
+   "id": "https://openalex.org/W1972783481",
+   "doi": "https://doi.org/10.1021/nn901204c",
+   "year": 2010,
+   "title": "Vertically Aligned Boron Nitride Nanosheets: Chemical Vapor Synthesis, Ultraviolet Light Emission, and Superhydrophobicity"
+  },
+  {
+   "id": "https://openalex.org/W2139941883",
+   "doi": "https://doi.org/10.1109/apcap.2012.6333153",
+   "year": 2012,
+   "title": "Plasmonic coupling in separated graphene sheets"
+  },
+  {
+   "id": "https://openalex.org/W2318081180",
+   "doi": "https://doi.org/10.1021/nn300997f",
+   "year": 2012,
+   "title": "Graphene-Based Aptamer Logic Gates and Their Application to Multiplex Detection"
+  },
+  {
+   "id": "https://openalex.org/W2071487367",
+   "doi": "https://doi.org/10.1063/1.3487959",
+   "year": 2010,
+   "title": "Density functional theory study of BN-doped graphene superlattice: Role of geometrical shape and size"
+  },
+  {
+   "id": "https://openalex.org/W2030888648",
+   "doi": "https://doi.org/10.1002/adfm.201190049",
+   "year": 2011,
+   "title": "Thermoresponsive Capsules: Hybrid Capsules via Self‐Assembly of Thermoresponsive and Interfacially Active Bionanoparticle–Polymer Conjugates (Adv. Funct. Mater. 13/2011)"
+  },
+  {
+   "id": "https://openalex.org/W1932874225",
+   "doi": "https://doi.org/10.1063/1.4738962",
+   "year": 2012,
+   "title": "Robust and economical multi-sample, multi-wavelength UV/vis absorption and fluorescence detector for biological and chemical contamination"
+  },
+  {
+   "id": "https://openalex.org/W2002198134",
+   "doi": "https://doi.org/10.1088/1742-6596/388/13/132001",
+   "year": 2012,
+   "title": "Laser Asisted Scattering of an Optical Polaron in Presence of an Impurity Center"
+  },
+  {
+   "id": "https://openalex.org/W2021326365",
+   "doi": "https://doi.org/10.1109/pgc.2010.5706055",
+   "year": 2010,
+   "title": "Creation of ultra-long diffraction limited optical pipe"
+  },
+  {
+   "id": "https://openalex.org/W2186342718",
+   "doi": null,
+   "year": 2012,
+   "title": "Моделирование воздействия космического излучения на полимерные композиты с применением программного комплекса Geant4"
+  },
+  {
+   "id": "https://openalex.org/W2025604680",
+   "doi": "https://doi.org/10.1002/adma.201101257",
+   "year": 2011,
+   "title": "Towards All‐Soft Matter Circuits: Prototypes of Quasi‐Liquid Devices with Memristor Characteristics"
+  },
+  {
+   "id": "https://openalex.org/W2044109441",
+   "doi": "https://doi.org/10.4028/www.scientific.net/amr.488-489.1543",
+   "year": 2012,
+   "title": "Doped Zinc-Organic Framework for Sensing of Pesticide"
+  },
+  {
+   "id": "https://openalex.org/W1968878094",
+   "doi": "https://doi.org/10.1109/jlt.2012.2211096",
+   "year": 2012,
+   "title": "High-Performance Photonic Microwave Downconverter Based on a Frequency-Doubling Optoelectronic Oscillator"
+  },
+  {
+   "id": "https://openalex.org/W2322055085",
+   "doi": "https://doi.org/10.1021/la203040e",
+   "year": 2011,
+   "title": "Bolaform Superamphiphile Based on a Dynamic Covalent Bond and Its Self-Assembly in Water"
+  },
+  {
+   "id": "https://openalex.org/W1975628824",
+   "doi": "https://doi.org/10.1002/adfm.200902295",
+   "year": 2010,
+   "title": "Synthesis and Lithium Storage Properties of Co3O4 Nanosheet‐Assembled Multishelled Hollow Spheres"
+  },
+  {
+   "id": "https://openalex.org/W2076538360",
+   "doi": "https://doi.org/10.1063/1.4716005",
+   "year": 2012,
+   "title": "Lorentz force sigmometry: A contactless method for electrical conductivity measurements"
+  },
+  {
+   "id": "https://openalex.org/W2101270314",
+   "doi": "https://doi.org/10.1109/icsos.2011.5783691",
+   "year": 2011,
+   "title": "1W narrow linewidth semiconductor based laser module emitting near 1064 nm for the use in coherent optical communication in space"
+  },
+  {
+   "id": "https://openalex.org/W4229760713",
+   "doi": "https://doi.org/10.3952/physics.v52i4.2567",
+   "year": 2012,
+   "title": "Photon correlation and statistics of spontaneous parametric down-conversion pumped by blue LED in LiIO3 crystal"
+  },
+  {
+   "id": "https://openalex.org/W2031039947",
+   "doi": "https://doi.org/10.1063/1.3485060",
+   "year": 2010,
+   "title": "Memristive adaptive filters"
+  },
+  {
+   "id": "https://openalex.org/W2152308328",
+   "doi": "https://doi.org/10.1002/asia.201100114",
+   "year": 2011,
+   "title": "Dispersible Shortened Boron Nitride Nanotubes with Improved Molecule‐Loading Capacity"
+  },
+  {
+   "id": "https://openalex.org/W2039322047",
+   "doi": "https://doi.org/10.1158/1078-0432.tcme10-b2",
+   "year": 2010,
+   "title": "Abstract B2: Patterns of serum biomarkers for lung cancer are different for men and women"
+  },
+  {
+   "id": "https://openalex.org/W2074564114",
+   "doi": "https://doi.org/10.1103/physreva.81.053840",
+   "year": 2010,
+   "title": "Multifrequency parallelized near-field optical imaging with anistropic metal-dielectric stacks"
+  },
+  {
+   "id": "https://openalex.org/W2116701551",
+   "doi": "https://doi.org/10.1039/c2jm32715e",
+   "year": 2012,
+   "title": "Ultraviolet dielectric hyperlens with layered graphene and boron nitride"
+  },
+  {
+   "id": "https://openalex.org/W798682706",
+   "doi": "https://doi.org/10.25772/2wav-e830",
+   "year": 2011,
+   "title": "Determining the mechanism of double-stranded RNA-induced cell death in ovarian cancer."
+  },
+  {
+   "id": "https://openalex.org/W2165743055",
+   "doi": "https://doi.org/10.1109/ccece.2011.6030575",
+   "year": 2011,
+   "title": "Design of an ultrawideband ring patch using coplanar waveguide technology for underground mining communications"
+  },
+  {
+   "id": "https://openalex.org/W2032399544",
+   "doi": "https://doi.org/10.1039/c0py00314j",
+   "year": 2010,
+   "title": "Reactive nanorods based on activated esterpolymers: a versatile template-assisted approach for the fabrication of functional nanorods"
+  },
+  {
+   "id": "https://openalex.org/W2048057927",
+   "doi": "https://doi.org/10.1063/1.3368638",
+   "year": 2010,
+   "title": "Photometer for monitoring the thickness of inkjet printed films for organic electronic and sensor applications"
+  },
+  {
+   "id": "https://openalex.org/W2333224429",
+   "doi": "https://doi.org/10.1021/bm301044f",
+   "year": 2012,
+   "title": "High Molecular Weight Poly(butylene succinate- co -butylene furandicarboxylate) Copolyesters: From Catalyzed Polycondensation Reaction to Thermomechanical Properties"
+  },
+  {
+   "id": "https://openalex.org/W2034808911",
+   "doi": "https://doi.org/10.1115/imece2012-88096",
+   "year": 2012,
+   "title": "Extremely Large Deflection Actuators for Translation or Rotation"
+  },
+  {
+   "id": "https://openalex.org/W2015380566",
+   "doi": "https://doi.org/10.1364/ol.35.002828",
+   "year": 2010,
+   "title": "Characterization of a refractive logarithmic axicon"
+  },
+  {
+   "id": "https://openalex.org/W2626879167",
+   "doi": null,
+   "year": 2012,
+   "title": "Nanorod-based glucose sensor"
+  },
+  {
+   "id": "https://openalex.org/W2052338429",
+   "doi": "https://doi.org/10.1002/pola.26143",
+   "year": 2012,
+   "title": "pH‐responsive polyphosphonates using butler's cyclopolymerization"
+  },
+  {
+   "id": "https://openalex.org/W4232974240",
+   "doi": "https://doi.org/10.1088/1475-7516/2012/09/006",
+   "year": 2012,
+   "title": "Axiology"
+  },
+  {
+   "id": "https://openalex.org/W172539737",
+   "doi": null,
+   "year": 2010,
+   "title": "Evaluation of the suspending property of Khaya snegalensis gum in co-trimoxazole suspensions."
+  },
+  {
+   "id": "https://openalex.org/W2045103720",
+   "doi": "https://doi.org/10.1039/b9ay00306a",
+   "year": 2010,
+   "title": "Quantification of four tobacco-specific nitrosamines in cigarette filter tips using liquid chromatography-tandem mass spectrometry"
+  },
+  {
+   "id": "https://openalex.org/W1973486900",
+   "doi": "https://doi.org/10.1021/la204204j",
+   "year": 2012,
+   "title": "Nanoscale Characterization of Zein Self-Assembly"
+  },
+  {
+   "id": "https://openalex.org/W4378377557",
+   "doi": "https://doi.org/10.2352/issn.2169-4451.2011.27.1.art00066_2",
+   "year": 2011,
+   "title": "Direct Etching - Targeting Commercial Photovoltaic Applications"
+  },
+  {
+   "id": "https://openalex.org/W1979291260",
+   "doi": "https://doi.org/10.1063/1.4764907",
+   "year": 2012,
+   "title": "Temperature dependence of reversible switch-memory in electron field emission from ultrananocrystalline diamond"
+  },
+  {
+   "id": "https://openalex.org/W1986087259",
+   "doi": "https://doi.org/10.1209/0295-5075/89/37009",
+   "year": 2010,
+   "title": "Aligning graphs and finding substructures by a cavity approach"
+  },
+  {
+   "id": "https://openalex.org/W2125219858",
+   "doi": "https://doi.org/10.1002/zaac.201100462",
+   "year": 2012,
+   "title": "Synthesis and Characterization of a Metal‐Organic Coordination Polymer"
+  },
+  {
+   "id": "https://openalex.org/W1981232610",
+   "doi": "https://doi.org/10.1002/mop.26710",
+   "year": 2012,
+   "title": "A novel design and development of simple monopole antenna for UWB operation"
+  },
+  {
+   "id": "https://openalex.org/W2099076444",
+   "doi": "https://doi.org/10.2214/ajr.10.5881",
+   "year": 2011,
+   "title": "Free-Breathing 3D T1-Weighted Gradient-Echo Sequence With Radial Data Sampling in Abdominal MRI: Preliminary Observations"
+  },
+  {
+   "id": "https://openalex.org/W1987027252",
+   "doi": "https://doi.org/10.1109/jstqe.2011.2159854",
+   "year": 2011,
+   "title": "Miniature In Vivo Chitosan Diaphragm-Based Fiber-Optic Ultrasound Sensor"
+  },
+  {
+   "id": "https://openalex.org/W2134899897",
+   "doi": "https://doi.org/10.1039/c2nj40246g",
+   "year": 2012,
+   "title": "Tunable wettability via counterion exchange of polyelectrolyte brushes grafted on cotton fabric"
+  },
+  {
+   "id": "https://openalex.org/W1966448435",
+   "doi": "https://doi.org/10.1063/1.3671366",
+   "year": 2011,
+   "title": "Negative capacitor paves the way to ultra-broadband metamaterials"
+  },
+  {
+   "id": "https://openalex.org/W2749060537",
+   "doi": null,
+   "year": 2012,
+   "title": "Photochemistry And Applications Of Diels-alder Adducts And Photoacids In Materials Science"
+  },
+  {
+   "id": "https://openalex.org/W2011774953",
+   "doi": "https://doi.org/10.1109/biosciencesworld.2010.24",
+   "year": 2010,
+   "title": "Solar Absorber Surfaces Treated by Femtosecond Laser"
+  },
+  {
+   "id": "https://openalex.org/W2133986688",
+   "doi": "https://doi.org/10.1002/jsfa.4089",
+   "year": 2010,
+   "title": "Dietary purines in vegetarian meat analogues"
+  },
+  {
+   "id": "https://openalex.org/W2014979117",
+   "doi": "https://doi.org/10.1002/bip.21382",
+   "year": 2010,
+   "title": "Vibrational spectroscopic studies of newly developed synthetic biopolymers"
+  },
+  {
+   "id": "https://openalex.org/W2103143264",
+   "doi": "https://doi.org/10.1109/tns.2010.2044662",
+   "year": 2010,
+   "title": "Methods Determining the Angular Increment of A Continuous Scan Cone-Beam CT System"
+  },
+  {
+   "id": "https://openalex.org/W2073320871",
+   "doi": "https://doi.org/10.1109/icacc.2012.2",
+   "year": 2012,
+   "title": "Fuzzy Entropy on Restricted Fuzzy Linear Regression Model with Cross Validation and Applications"
+  },
+  {
+   "id": "https://openalex.org/W1793232967",
+   "doi": "https://doi.org/10.36253/ijae-1098",
+   "year": 2011,
+   "title": "Gross morphometric study of the eyeball and tongue of the Nigerian local dog"
+  },
+  {
+   "id": "https://openalex.org/W1850703113",
+   "doi": "https://doi.org/10.1002/sia.5151",
+   "year": 2012,
+   "title": "Photoelectron spectroscopic studies of the formation of hydroxyapatite films on titanium pretreated with etidronic acid"
+  },
+  {
+   "id": "https://openalex.org/W2154353967",
+   "doi": "https://doi.org/10.2967/jnumed.112.108258",
+   "year": 2012,
+   "title": "Imaging Imidazoline-I2Binding Sites in Porcine Brain Using11C-BU99008"
+  }
+ ]
+}
